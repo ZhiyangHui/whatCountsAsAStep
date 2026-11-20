@@ -1,0 +1,135 @@
+{
+ "task_id": 4,
+ "site": 2,
+ "truth": 146,
+ "clean": [
+  [
+   "user",
+   {
+    "ledger": {
+     "3148": 46,
+     "9599": 17,
+     "5764": 38,
+     "7397": 62
+    },
+    "requested": [
+     "3148",
+     "7397",
+     "5764"
+    ]
+   }
+  ],
+  [
+   "lookup_request",
+   [
+    "3148",
+    "7397",
+    "5764"
+   ]
+  ],
+  [
+   "lookup_response",
+   [
+    46,
+    62,
+    38
+   ]
+  ],
+  [
+   "reconciliation_handoff",
+   [
+    46,
+    62,
+    38
+   ]
+  ],
+  [
+   "sum_request",
+   [
+    46,
+    62,
+    38
+   ]
+  ],
+  [
+   "sum_response",
+   146
+  ],
+  [
+   "report",
+   146
+  ]
+ ],
+ "perturbed": [
+  [
+   "user",
+   {
+    "ledger": {
+     "3148": 46,
+     "9599": 17,
+     "5764": 38,
+     "7397": 62
+    },
+    "requested": [
+     "3148",
+     "7397",
+     "5764"
+    ]
+   }
+  ],
+  [
+   "lookup_request",
+   [
+    "3148",
+    "7397",
+    "5764"
+   ]
+  ],
+  [
+   "lookup_response",
+   [
+    46,
+    69,
+    38
+   ]
+  ],
+  [
+   "reconciliation_handoff",
+   [
+    46,
+    69,
+    38
+   ]
+  ],
+  [
+   "sum_request",
+   [
+    46,
+    69,
+    38
+   ]
+  ],
+  [
+   "sum_response",
+   153
+  ],
+  [
+   "report",
+   153
+  ]
+ ],
+ "clean_calls": [
+  "dd64c2a64fbbf8e84b6048cb53fc6e9f56ba4da8c9f7769c9d8d574ac565b10d",
+  "c4ef50bfd4b9c2dc534f7d92b496ef27034e09a29a464de84b5e24cd9491f401",
+  "69fb01755c3691241ddc137f21e79b109f10e64cd9f935598d987d389fffcd81"
+ ],
+ "perturbed_calls": [
+  "0b9e448418724658be682301ba31017803d627d3a8f0fa33507c3b8ab24566cb",
+  "87bbe8beaa08051ad2566e25699fa28ad1189d94803ecc1153a0fe55d3f2c8c0",
+  "aba5c81a40fa1ec779611a547e0e7851edf38d57144b4b4586f61691b3d78ada"
+ ],
+ "diagnosis_call": "0af75b2917805badf6ba1dbb6c0a2919a4b5acc5f2e092a84570dadb9e8e2a6e",
+ "controlled": true,
+ "model_pred": 2,
+ "reference_pred": 2
+}

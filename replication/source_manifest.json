@@ -1,0 +1,17 @@
+[
+  [
+    "sources/evaluate_chief_step_accuracy.py",
+    "https://raw.githubusercontent.com/Mr-Capybara/CHIEF/2b47170c41913c8bdea34397f7d52c65360dcef9/evaluate_chief_step_accuracy.py",
+    "4bf9688240133d79a2fe18e805b375881c4129f5"
+  ],
+  [
+    "sources/results_CHIEF_deepseek-reasoner_HC_0109_0005.jsonl",
+    "https://raw.githubusercontent.com/Mr-Capybara/CHIEF/2b47170c41913c8bdea34397f7d52c65360dcef9/results/CHIEF/_archive/pre_tau2benchsub_cleanup_20260521_0034/results_CHIEF_deepseek-reasoner_HC_0109_0005.jsonl",
+    "e723490dbe71bcf31b2da7a1a6904123264acae4"
+  ],
+  [
+    "sources/results_CHIEF_step_accuracy_api_ali_qwen3-235b-a22b-thinking-2507_0519_1754.jsonl",
+    "https://raw.githubusercontent.com/Mr-Capybara/CHIEF/2b47170c41913c8bdea34397f7d52c65360dcef9/results/CHIEF/_archive/pre_tau2benchsub_cleanup_20260521_0034/results_CHIEF_step_accuracy_api_ali_qwen3-235b-a22b-thinking-2507_0519_1754.jsonl",
+    "391802ae7b11989b1d5c9461d1e2fa085642c2d6"
+  ]
+]

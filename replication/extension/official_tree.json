@@ -1,0 +1,2005 @@
+{
+ "sha": "5b04f98b1995ec758d9aba70940d17bb7d2d169b",
+ "tree": [
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_00c9f923-b838-4189-816b-45ddeb40f8ad.json",
+   "type": "blob",
+   "sha": "c7717ed7a8bbfbb6e713eaca500ab6559680b395"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_08bd862d-9ba4-4448-acbf-48d49283182a.json",
+   "type": "blob",
+   "sha": "5d98def442da8a4c4819690ea7d543dfc05785a1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_0ac266c4-484c-45ea-ab07-3f867151c191.json",
+   "type": "blob",
+   "sha": "c9c2c124668f4d3070d6298a397795d8706cb4c9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_0b9a5832-53f7-4440-85ae-051f2467e3f4.json",
+   "type": "blob",
+   "sha": "b3cacf78702c0882b5fa328f337b576b95b692ec"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_104acdf9-aa76-4783-b135-cf63b0120729.json",
+   "type": "blob",
+   "sha": "35181dbad22f56a06f2c7450fd0d0fa7e39719a3"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_10a6b268-2715-48f4-be34-02ce90c233da.json",
+   "type": "blob",
+   "sha": "9384456099afd0e5a7a7244dbeba4bebd5cbc4f1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_14dc7747-c72b-4fb2-bbb3-d2acb90e1145.json",
+   "type": "blob",
+   "sha": "9dc96704c382f7abff2d8cc6d078af0f45efb09b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_15556784-2d4a-46a1-83dc-0d981849d4f7.json",
+   "type": "blob",
+   "sha": "b75e5199e4225521bc1f2276a650493632e7b88c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_157d8030-0cdc-4b09-bf07-d58ac7f45782.json",
+   "type": "blob",
+   "sha": "f02e77981cc1d20c3581e3990a880dfd6421753f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_198d0603-3021-4c3a-bece-79c49191696d.json",
+   "type": "blob",
+   "sha": "af670d81cd3289cc16c07ce2b28462a2bf53ae56"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_1a51b97c-320f-4849-8f27-105efe437a95.json",
+   "type": "blob",
+   "sha": "b9dd98f572457b101a921c207367153325e9e30f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_2afffeed-c799-40ea-8120-c57ac58eac1b.json",
+   "type": "blob",
+   "sha": "1960153b07e7e2e1cb32b4ac4ae9bf8e71e16f0d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_2f68c793-eb12-496d-83d9-81acf15e29e0.json",
+   "type": "blob",
+   "sha": "68a9349663b46d2c2a0ccc22a29b0a84363f31be"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_377e1a92-aab0-4d14-bdd4-128730d10202.json",
+   "type": "blob",
+   "sha": "45fa7e0e94021fc976ef7d4b01b8ee43b8ba7b96"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_378cdae7-08e2-4975-9265-fa9f2e1e952b.json",
+   "type": "blob",
+   "sha": "55d7616371c4143c86edc22b00da381590470b22"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_39d147c5-63d7-443b-8534-f71562660d29.json",
+   "type": "blob",
+   "sha": "3218cbd9842aabda23a002b082b3432cfcb5679c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_41c7a6fe-998c-4e04-9f0b-6bf019b67f2d.json",
+   "type": "blob",
+   "sha": "f57176987352287bec9fce0d16b2fdaad650cb1f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_445fb4dd-fca7-47e7-b1e8-b7d21abe4d04.json",
+   "type": "blob",
+   "sha": "e4339b5aeadace19b5f31124eacd85ce4b1cc7f0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_4a0f953e-7ca8-4596-88e2-04dc7d4f079d.json",
+   "type": "blob",
+   "sha": "829ce594e2bad2ba1183aab04d1f3ba888c201f0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_5078cc89-58aa-4fc4-9b69-cb5d649ebf0c.json",
+   "type": "blob",
+   "sha": "3bbd5230d805480d5e167aeb108ddb6ba43815ff"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_50efdd9c-2f1f-43cb-98bf-be6213403865.json",
+   "type": "blob",
+   "sha": "2483270dee61cdb15a818a8fe88ac940d623983a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_51c0835b-4435-4a6a-aa1e-61b39dd57029.json",
+   "type": "blob",
+   "sha": "176ab342f454a1ad1ce8cd69d41dcaa5e2efeb8b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_5ddca2a6-0c3e-43d6-919b-dbd8478a0144.json",
+   "type": "blob",
+   "sha": "92c1d8f75c211d8bca13dac975fb3e782185e4df"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_64017ab1-4dc1-4b2b-bc5a-61bb689b9e35.json",
+   "type": "blob",
+   "sha": "466f811fb713ddc432a2b34820917a5dcad1cd60"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_673596d0-0159-4124-a9e5-0a2c6d38f734.json",
+   "type": "blob",
+   "sha": "388f8993e2bdb0c38034834b64515eed25f644b2"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_67c2d684-2c97-49e4-b48d-44f5d46cfe45.json",
+   "type": "blob",
+   "sha": "5fd2eb35173838225b185d8a264cd69284f7a5d0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_6982a310-53a9-40b7-9615-8a232037f4b1.json",
+   "type": "blob",
+   "sha": "5b5db11d4bccd80b661f9abb342e0004327256bf"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_6aa9725c-efc2-42e5-bde2-5bc371acc6c5.json",
+   "type": "blob",
+   "sha": "8a081f6d399e0ca69a611198a20a342eb71ce58e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_6c0c4668-0681-4ba1-aacb-b437522e2338.json",
+   "type": "blob",
+   "sha": "3f3b42411eddc1e87c8a3eaf3415928c13b0e8a9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_7ca424ff-9793-4505-a941-118738a6a01d.json",
+   "type": "blob",
+   "sha": "0fe1c84ecedbdbe07ee8022ff9ccb620de9db634"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_82f8a0c3-de24-408b-a329-9a5be781746f.json",
+   "type": "blob",
+   "sha": "2fdafa0240cea4e37682118a1d46ab9e09e79d59"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_881dcd41-966f-41d2-804f-cb430837a233.json",
+   "type": "blob",
+   "sha": "db12aee7b80ffcc7eb50a424b0f9237b489fb3dc"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_88655ae3-4730-4830-89d6-c6775b37c78f.json",
+   "type": "blob",
+   "sha": "4f9b886cd39a0ec9b4d501e7249aa832be2f8d54"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_8c2f34d1-1fa1-41df-88a9-d57ed7dcb085.json",
+   "type": "blob",
+   "sha": "12553bbf2610d24042e3892bca83ac4555ba5f4b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_8f1abb26-544d-4c44-b741-1acc2e114d66.json",
+   "type": "blob",
+   "sha": "59e1c3ca3d55d0616bd138075b47252f4ac44a4d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_8f3e71f2-1eb3-452f-90db-44af5f6bbb8f.json",
+   "type": "blob",
+   "sha": "93bbc9b952843425462f5c1212601fdf9e4b6562"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_93517ff6-49f3-4bc4-943a-4c03f9a57a5d.json",
+   "type": "blob",
+   "sha": "949e496b74665d0a27a62655235c4a6ae7a80f4b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_95910bd5-196f-455d-8198-0114aa5f74eb.json",
+   "type": "blob",
+   "sha": "4e7923a99b844974184e262fa035cb045c3d7f31"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_98cb289f-000d-437f-898f-0aa6286b302e.json",
+   "type": "blob",
+   "sha": "ec81a03375d3be324d8c4b3be4a18c0a7f1ccaf7"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_9b7f0019-9e0c-4612-8fc7-8bcf8140ffe6.json",
+   "type": "blob",
+   "sha": "89e79e9162dfdfc19076e282d2c88af663897d9e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_a1b7c307-2d9a-4e29-bb88-6250d666725f.json",
+   "type": "blob",
+   "sha": "c8101f43595d800a3faa2506ea6b42c09e272d0b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_a34cf308-9ed5-4ab4-b13d-874816a3bc0f.json",
+   "type": "blob",
+   "sha": "a8c75c75abe6b0ccbb5abc74edb531ef62697dbf"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_a43d3d4d-a4e2-4b78-8911-ebf25b3b09fb.json",
+   "type": "blob",
+   "sha": "b33a02ac57bf630b31d9f623c5e00a5917f38682"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_a5b91e4c-6535-4457-9d1c-4c811547a9a7.json",
+   "type": "blob",
+   "sha": "9a6a15c103ee1525ad702361046875bfadbd8518"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_a65a4631-b2a2-4977-a5af-3fa2ccde8b6c.json",
+   "type": "blob",
+   "sha": "b1d4926c13123a347e417e970bf417b787c31576"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_ab404175-2271-4e38-9555-e90f66e2d512.json",
+   "type": "blob",
+   "sha": "a33858442e61d2ad750e455a66afd89481d69802"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_b2fbeef9-4134-462d-82c3-c1a191cfc747.json",
+   "type": "blob",
+   "sha": "6f57f91e0a04be1a03ef3ce170141010bc5ff3f7"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_b389ee28-72c8-4c62-a06e-07814c1928a1.json",
+   "type": "blob",
+   "sha": "3fb7fb3f7566da3d40e34912b31a59b37fcb45fb"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_b664cc9d-aea7-4c65-99fc-4de0da02b0f7.json",
+   "type": "blob",
+   "sha": "eba34b4d0510c397bde9b2e21d95ad520479e9a1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_ba7b6abe-4857-442c-a293-4719fe69cdec.json",
+   "type": "blob",
+   "sha": "61ec8b910a76d38ac1931e50da40d1108bfdf734"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_c1cf5f68-9619-4a8c-b00d-eb492d199b27.json",
+   "type": "blob",
+   "sha": "7a2fb2121030aca65441ebeb3edff080454f584e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_c31ad964-0346-4541-9943-a3862d3e80d4.json",
+   "type": "blob",
+   "sha": "78d91c41f2b6756621968625a3daf6c501eef4c7"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_c32ffe96-af2d-40cf-a3d2-148da51c9581.json",
+   "type": "blob",
+   "sha": "f85edf1bdb5b2738527c12d14e9785500f429859"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_c486d8b2-c99d-4096-913f-944cf36ed629.json",
+   "type": "blob",
+   "sha": "609f5081cbfa6d8ec952166f152ad2c7b380067b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_c4aa12b2-4591-4957-8a22-0b3ce0054857.json",
+   "type": "blob",
+   "sha": "806ab6b97474a62d7e83f1d69e60c463bbc49e33"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_cca1bc20-47f4-4b45-9ad6-7fb43ed64dbc.json",
+   "type": "blob",
+   "sha": "684a1a13b995682ef4617249c5a5977cb57aea67"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_cf2f88a1-8afd-4564-b6a5-1bb9266c24c0.json",
+   "type": "blob",
+   "sha": "3e13f5cb81c54d7e485bcad46ce42416988fea3b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_cf7e4d95-51ae-49f6-9eec-6016011b061e.json",
+   "type": "blob",
+   "sha": "d9f31dcaad1c85c555228f58b7a210cd28217755"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_d17cfcde-0b95-4292-bd01-d7185ad5b09a.json",
+   "type": "blob",
+   "sha": "19d0cf86506e955ae5260d7f5c1c7e4753e7c626"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_d1dfefae-abe0-4c67-8a05-1614c08bd59e.json",
+   "type": "blob",
+   "sha": "e6292322456a6cc9554e78ae891766ed29761767"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_d29f2dde-631b-41a8-82cf-d22936f575f1.json",
+   "type": "blob",
+   "sha": "fc7ce0e3b66fbd92c831789d5ac2e2368bb642bb"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_d4dbb0f5-643d-490d-8c11-3d7a1efea10f.json",
+   "type": "blob",
+   "sha": "e067b380ce3dba9988133c83f3963105af24172e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_d5c9bc0f-003d-46d7-a74c-fb0268f9caaf.json",
+   "type": "blob",
+   "sha": "b68d127870fc55d555575bc72484f3b51f17773c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_dccb3634-066d-4319-bfd4-44422d58508e.json",
+   "type": "blob",
+   "sha": "2281b51c1da11e2e80c1ed5b53d52424dc8a60f7"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_e817a3bc-a164-42e6-849f-417eed64699d.json",
+   "type": "blob",
+   "sha": "35d75b7a7c2f20e445b7a01b4cd1510fe4b91277"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_f059c9b9-6405-4eb4-acd1-2a23a76ee230.json",
+   "type": "blob",
+   "sha": "528e94a7e534d176066a07d8420714d1487d9286"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_f34be4a4-bf8c-4104-89e1-51f767fabc8f.json",
+   "type": "blob",
+   "sha": "778437e04d939a920fda5307ae87db71b3f3d017"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_f352df5e-072e-47b2-841e-6192d02d1f65.json",
+   "type": "blob",
+   "sha": "d54b93a925825ee58de3bdaa28aa821f9cadd515"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_f6c82e77-797e-43e2-8898-ae7d93012f55.json",
+   "type": "blob",
+   "sha": "efdfd5528dbb5d742ec628a29475932008c80a58"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_f7219370-4bf2-4c7a-b156-be4e8c4e0f68.json",
+   "type": "blob",
+   "sha": "e9cfc9e6026aa6198e88f435dbade4a55dabb63d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_deepseek-reasoner_feb0e16b-c8d3-4389-a939-283ca669453d.json",
+   "type": "blob",
+   "sha": "d6c0168f03b7fcb0c8eefb06083995184572723e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_0305090b-d2f4-465b-a307-2cc33c875d8d.json",
+   "type": "blob",
+   "sha": "745d756a7c8250cd9e710a21da144f6574157ca2"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_03d77067-3cad-4355-9a89-e1a2a834c8a2.json",
+   "type": "blob",
+   "sha": "d9aae3247ab2fbcf7d04a2a08da4a58914162fe3"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_07b403a9-a60f-48c9-925c-1df59b767f88.json",
+   "type": "blob",
+   "sha": "20a0828ece0fc948ee5accc7f9f55363fea79616"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_186596c6-6a53-4fcc-8127-18de990815fa.json",
+   "type": "blob",
+   "sha": "2e5d5cf62c69c36fefe8d8789d63780732a899b2"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_1899e7c7-a0d1-4c22-af94-8632c30ca1cb.json",
+   "type": "blob",
+   "sha": "b78e5503ec67b4a098016f7fbf940a43de8f01dc"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_1be21e96-5603-41d8-a3eb-3144cb0c6f1f.json",
+   "type": "blob",
+   "sha": "a048260a3959e832dd3aaa993866cc262482df82"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_2359221e-80ce-4360-a6e5-eb20768dea9e.json",
+   "type": "blob",
+   "sha": "83a4bf91860154695e1892d358f5e13d6f778d52"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_2a2c51c6-01b1-45a1-a8a1-1f32a5763e64.json",
+   "type": "blob",
+   "sha": "04d207871a8ec5a81bf80903895ce894ba5d2f06"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_2c4479c2-8301-4800-b4fc-03f5fb706a04.json",
+   "type": "blob",
+   "sha": "4b656a203786bac2d8526656331306eeffe90fd4"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_317e09df-ed94-4802-8723-7ef6de57c4c6.json",
+   "type": "blob",
+   "sha": "f4df933fa59c3504cd0e0b4f64f56be861bcc42d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_32f2842d-6890-4cd0-b6fa-eb1abaa6260c.json",
+   "type": "blob",
+   "sha": "efa20668ed89971e9e4506e052ac905962799c55"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_34d5e7b9-ec13-4a27-8fed-57d10c158e18.json",
+   "type": "blob",
+   "sha": "8ca7e85d0a81bccbb44875d06201cded4c49322b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_352793d2-0b13-4ffc-9122-8989e93b2d7e.json",
+   "type": "blob",
+   "sha": "f7b6671a9f468e4c79d65072e7e730eb66a1fd3d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_38d24360-1b00-40ef-a7b1-fe3ffdd0c626.json",
+   "type": "blob",
+   "sha": "483c16f0e01ec5541089118c00bcbbce1cc8a58a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_39f0c617-0303-4863-bf61-ce8a942fd7ef.json",
+   "type": "blob",
+   "sha": "a073596a8b0beb452ad0884f7d6b8ca8b89e0841"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_3dce6d78-f4ce-4bbf-9c71-aa725752b501.json",
+   "type": "blob",
+   "sha": "45c03d15cbd6eab340807eb87abbd4310b81358d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_40078a6c-3ee3-4429-b9a7-a01ec50312ef.json",
+   "type": "blob",
+   "sha": "26cdf5d7afcb4856edb87a054cf9fd34f599829b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_42296a40-4e75-4b10-ac78-bda6e9cf2224.json",
+   "type": "blob",
+   "sha": "df473a265cdadbedccb9567169a2e2d319b6f7f9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_4269dfbc-8cb1-44e4-b4ef-893325bfd24e.json",
+   "type": "blob",
+   "sha": "0003b9db9bf8821e53a9e1709f77d8a743efd97d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_4437db52-c1dd-4c93-be86-ba9b22738b08.json",
+   "type": "blob",
+   "sha": "f0b9c5b5336beefa180774d4d754a6248816614d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_457d562a-822a-4f08-aee9-a83d86054a12.json",
+   "type": "blob",
+   "sha": "ac26a498585eb755ef4ef7f73a5f25005b5ffeab"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_464c0531-e16e-41db-83da-ed390aa9988e.json",
+   "type": "blob",
+   "sha": "809767657ee3fc76390b14908ae3624d3bb69dca"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_4a726968-988e-4b66-a63f-cada1c0d2061.json",
+   "type": "blob",
+   "sha": "67d450cfd24af5ee06243ed977825aba087d72e1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_4bbd7a35-8ad7-4ddc-a948-cb0b776b48cb.json",
+   "type": "blob",
+   "sha": "5a4c28ddeb4e583bce9f1f54d3661ba19c67026d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_516c89e9-bf46-4242-8d2a-119d0e25af3a.json",
+   "type": "blob",
+   "sha": "92ab35bfe26b823d43a716e86598f8d526a1d3b9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_64228a30-91f4-492b-898e-578b698a5dbc.json",
+   "type": "blob",
+   "sha": "846fcbce8957f87657a7c4b807d12ee56a39b580"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_660458b4-d90b-4b15-ad3b-8e399659cb38.json",
+   "type": "blob",
+   "sha": "6ee15e1ff426f3d3fc9ae4d6bd29e2257b0a555c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_67fa12fe-8031-4393-8c41-4755d4a40a73.json",
+   "type": "blob",
+   "sha": "99bfa50d190294e9b9d2d8bc06c65ac1e3bf3ba6"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_6f5b124b-aebc-41dd-b05d-dba61ca76ff7.json",
+   "type": "blob",
+   "sha": "6100c0b3cfb90067631376a0593f6cf3e16e5b49"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_7069982c-6946-4ad6-9a7b-2a62371a6e60.json",
+   "type": "blob",
+   "sha": "9319206bb230c8c368ae5e72914c4e2ba2712000"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_76889fc3-a099-4337-bcc2-1d0af11f6a1c.json",
+   "type": "blob",
+   "sha": "bffbdf51b68fec6aa57fdeba7fe7212857d133d5"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_7d4ae738-45aa-4745-8cf1-f2c81c08a77c.json",
+   "type": "blob",
+   "sha": "2dfd1287e6be27068953d95e4e79da8f65da593e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_81e16023-c0f6-4720-a527-acebcf029a67.json",
+   "type": "blob",
+   "sha": "c3e62c3c951265cce20b81cab27c25e8bb4a612d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_8368f404-a415-45fd-afbd-d8343ac35543.json",
+   "type": "blob",
+   "sha": "6835588eb0833eb348b0128f4bae209555f3c498"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_85f6a629-a90b-4e99-b42d-3b1d24fde1f5.json",
+   "type": "blob",
+   "sha": "d442cbba6011bfc3600631e9e2dfb4725aef1870"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_8f1e1d94-0505-4724-a3bf-96626ad5605c.json",
+   "type": "blob",
+   "sha": "77bc8ffde5a22dffc87d402c446c1148341df225"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_90e8d61b-9d31-4a75-b88e-e0266ae78923.json",
+   "type": "blob",
+   "sha": "9a4e4f9c7f65543383bc122d53619c2116ce120c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_940764ae-f374-404d-a81b-e9dc95f05073.json",
+   "type": "blob",
+   "sha": "22188322b249a42e9667c91e3a832c668e6ad5da"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_97d825f7-334b-44e2-80d4-f6258cbe7a9d.json",
+   "type": "blob",
+   "sha": "908432feb63afab36b3d5301d21a166424659b9d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_9d204c75-8c50-4618-8391-59ec92b9b818.json",
+   "type": "blob",
+   "sha": "9ec6155466140c0539c7cc29e22551c8d10cbc38"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_9f37c7e8-8f89-4d58-acd1-ef6c62efe1b0.json",
+   "type": "blob",
+   "sha": "51199c2e9ab8ffedaf823d5423a18a4dd3b62afc"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_a08b9aee-7fea-4b54-8f6a-4a44df79c5cf.json",
+   "type": "blob",
+   "sha": "8511346209059801505eb60a2389b48734f797e1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_aa54a462-9588-4ffc-ae1a-ef957d5ece32.json",
+   "type": "blob",
+   "sha": "11a37d2fc4e6cc3ce48b38103655d1e05a88fb4f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_aa6c2150-ebb5-4067-850b-a6b4c5082436.json",
+   "type": "blob",
+   "sha": "5f4b0fcb64883525f96d72b1034faef150b68be8"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_abf9b77b-8e65-4a67-ac24-04ebbadc1f74.json",
+   "type": "blob",
+   "sha": "c3de5a353525de25604ac843826e82d3f4cd8809"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_ad0870e3-7335-4406-ae2e-970c630d2409.json",
+   "type": "blob",
+   "sha": "fc7f7301d44a20a96a3048e00cb005c22de8b1dd"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_ad738d57-8a05-4680-84f6-0f12ff2d70ab.json",
+   "type": "blob",
+   "sha": "6e16d9b5b58c95702cdf8f9f544fe20001d3459c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_b32cbdf9-073b-471b-8358-bf4e53becf9b.json",
+   "type": "blob",
+   "sha": "744a1e6af7c09709f21d71ae0b31b274b20f3c0d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_b41f5705-6a97-4e0c-b83b-e2b6fd8c7c92.json",
+   "type": "blob",
+   "sha": "d0227032c7e013aa2dce7c5a7380eadfd64f02f2"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_b71adf97-298f-4380-a9bb-bb79e5c52427.json",
+   "type": "blob",
+   "sha": "2c130b423af644ffa78cd3eeb2c3bb5b40afb327"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_bc371731-b11d-4331-b33f-b7d558fe0544.json",
+   "type": "blob",
+   "sha": "32efaa19fd2c901c6c89b1ee83375b3b60b86ca9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_be5918e7-9ad3-408c-b2e8-71be98b57f3b.json",
+   "type": "blob",
+   "sha": "16cc7b5cab6dcacaec4fde6016f887b90c3b243e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_c2e88815-a914-4278-8d57-42c2e4a3328e.json",
+   "type": "blob",
+   "sha": "f8c793c9e6cd4bfc041727a1380bfd7f9b3aa105"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_c3f97d05-ff2a-4e40-9911-88322d9ef6ee.json",
+   "type": "blob",
+   "sha": "1e70657e02f75aaae467ae0aeab3529f3062521a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_ca9d8b7c-e0f9-4fdc-9032-78687b0442fc.json",
+   "type": "blob",
+   "sha": "048764ccc923263bda2d6e1bd85f169977d477c0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_ce9eab71-85e5-48f7-aafc-c08e270125d5.json",
+   "type": "blob",
+   "sha": "d4ab1c76272e604a265c1f564af5eb6ad2d14861"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_d5114820-efd6-4f17-9da7-b7334ea8a933.json",
+   "type": "blob",
+   "sha": "e74bdbe4e879a9f6b0d6aa41c05fcc1ebb7560de"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_d56c11a2-64cd-443a-999c-d9680f3dfa47.json",
+   "type": "blob",
+   "sha": "fdf8988ffe568d90349ae7b3dd9afbef2e188903"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_d7f817cf-1ef2-4b9c-9e11-80951ccbbaa8.json",
+   "type": "blob",
+   "sha": "7a8354c1ea853c5c793c0e7f47cb8e97e0d1a6d6"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_e20016ce-c4e3-4a3b-82a8-6591490cd372.json",
+   "type": "blob",
+   "sha": "9a955aba9211cfd14c075fb0280d620abbcfb09d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_e347a1cc-cade-4c2e-88c8-5965a1561a95.json",
+   "type": "blob",
+   "sha": "362146621a0fcce8618a7f3bdac086b3c9793571"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_e3d3f6b7-9ee9-4330-b66e-5421b8342d69.json",
+   "type": "blob",
+   "sha": "23406dd5f19af5861b874c31316ef1df4447d267"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_e566abfa-16b2-464c-b35b-6acdbbc0d161.json",
+   "type": "blob",
+   "sha": "a7bfecde015771f592d7db17e885d524b0dce173"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_e5c652d0-f6ab-4d40-8745-37e5a201a1fe.json",
+   "type": "blob",
+   "sha": "8a0cc6fb723cbff9fe8696c80aec0d5c8223bfc5"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_e74a0ace-5c28-4131-983e-4f4baac562eb.json",
+   "type": "blob",
+   "sha": "d3b3d5f9abd1dfc897cb976eafaaeb64b762114e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_e77947ce-dd8a-43c3-b15c-877e26a72c71.json",
+   "type": "blob",
+   "sha": "14f68a2728e70b4fdcbf206e5c849216d9576bb9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_f2e91809-da46-4cfd-bf75-9115f5fe73e3.json",
+   "type": "blob",
+   "sha": "dbde7cba062f8dd71b1496561ee908d6b5578059"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_f956a4b7-2a4a-4928-b6eb-7560bc0e9641.json",
+   "type": "blob",
+   "sha": "40b45705df096c4afd3d6755b93bd9717570ea2f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_fa3b21b7-b936-45b7-bc6e-e625511ed8a7.json",
+   "type": "blob",
+   "sha": "97ffe0ec557a6d9519d011763718ab5b62147657"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_gpt-5_ff12b481-c2de-464c-ab1b-8b44a2d1caf9.json",
+   "type": "blob",
+   "sha": "67a5d36b16005b5e94e66f42f1e32c51e1d11506"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_0250f877-f44b-4ceb-990a-f284cc9c6433.json",
+   "type": "blob",
+   "sha": "6dc267ab4db1a7a048eda88c469bd5e32b21924e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_05c584d5-4253-4c8b-af19-0db2076deda4.json",
+   "type": "blob",
+   "sha": "5bc216d0657bb61ad2cb05036ce3fe8d28efc9bc"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_0b7e339f-de96-43b5-b829-20aa48863c22.json",
+   "type": "blob",
+   "sha": "f4566e4e53062c077c9f6c6642a0f86ce3acf2d6"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_0c185067-6414-4f75-87fb-bac05bc133a0.json",
+   "type": "blob",
+   "sha": "daa1e19a45ab780835c07712d9cbc48d7bd0e6ed"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_0c3a3214-5d15-4c2e-b69d-d26a5a6b5565.json",
+   "type": "blob",
+   "sha": "d7965786f6169bc226e2a6b59bc82ed06e38e8fa"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_111fbaee-542b-4a2b-a6d9-c5b9473dbf96.json",
+   "type": "blob",
+   "sha": "33fdae777863c93075ee8f4017b46b925cf1b299"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_1305c6fb-20e5-44a1-aee6-4c1e306845c2.json",
+   "type": "blob",
+   "sha": "d53912930b0d96beea78978c493e49651486a080"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_16366e51-7286-4f86-9cf7-f83f6fc2e21e.json",
+   "type": "blob",
+   "sha": "660965042efa7bd3a5285c3d0aab163c30d13045"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_1675af00-7b0c-47f1-96c1-b633be102654.json",
+   "type": "blob",
+   "sha": "52b02261263384a2798f0ccc81076a2e1d7b4e8b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_1be915d3-902e-4ae7-8abe-1ec4ae53493a.json",
+   "type": "blob",
+   "sha": "4745b7feb4d4ea771d484c029436c7273ef42933"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_1e8fb425-e44a-49b7-9984-76c8440f69b9.json",
+   "type": "blob",
+   "sha": "e32b1cc10f25d81bf385b366afb2795d478693e7"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_303997d3-6427-41a9-8ef8-33b0093e6628.json",
+   "type": "blob",
+   "sha": "d35d9004f2acc883e70fad4d7afc751a6a102618"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_346dcc8e-87b9-4fb3-9f20-bd6b35a1bf5b.json",
+   "type": "blob",
+   "sha": "2fa91e7c3b4c7e26c1176a1a75e22cc218b5c705"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_35567c84-0cdf-4c60-92d8-a89959e9c312.json",
+   "type": "blob",
+   "sha": "8940af3bf46288a66f2bc841ae7ed22d45c463d0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_389d00a9-c5a9-415d-a262-90274970a52f.json",
+   "type": "blob",
+   "sha": "045ac5803399174806eb3e9eb45d5a7b039c5e2c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_39e43b1f-22a2-46ea-ac04-f0cafa709ae0.json",
+   "type": "blob",
+   "sha": "bcc9482349d4980b88b3a88d6fb61f760e699cff"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_3ac9c722-3acf-45eb-95ac-ba9f83665df7.json",
+   "type": "blob",
+   "sha": "4369bd97c0a9d6108d1eece1a4391d8b1471334a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_3b2011e4-a57d-497f-aa94-e0adeed633f8.json",
+   "type": "blob",
+   "sha": "4db5cb20158ac4b34d6554fc32149d5481b285cc"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_3d878ce6-3893-4849-ac5d-7e2d8fad1bcb.json",
+   "type": "blob",
+   "sha": "07851114395e6aabe046d0a18363ba92497b9993"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_3deee749-81bc-4bd8-a262-a0aa32faeff0.json",
+   "type": "blob",
+   "sha": "6d5adc0979e9047dd97ec3f477752b67cb95da5b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_40e0fc17-a7e8-4866-bb17-9ba7fc4762e7.json",
+   "type": "blob",
+   "sha": "7c5e09a60be69cc1c2ad19e05dc962aacda9e97c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_452b70fd-96c2-40dd-b43b-6f79ea88d6c5.json",
+   "type": "blob",
+   "sha": "3f0ec88e22f74eb31d6974c9059127296531cd9d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_45d348e4-fb24-42fd-b40f-0d6cfe88c385.json",
+   "type": "blob",
+   "sha": "e470638011c722e09db0abd304f7bbfd8186b366"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_4dc0a00d-fadc-4971-a283-9d11693f8301.json",
+   "type": "blob",
+   "sha": "e17cbd0b254c529af6827383d5a2d79f20d9b1f1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_510baf07-bb73-4384-b943-e13542ce63ac.json",
+   "type": "blob",
+   "sha": "d2da5981a79650ce9088a36420843f2060034f83"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_53920979-bfa9-4f19-b0ca-1714c23c8a50.json",
+   "type": "blob",
+   "sha": "d2041b422804cf11d0813a5eb961112400f59a4a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_55d297e7-6a27-4ac4-9525-d831eae331ad.json",
+   "type": "blob",
+   "sha": "feed4f341a21228e5d7683be2ad303e872d5d97a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_5a089ec1-3d1d-4328-a481-944f36c3df48.json",
+   "type": "blob",
+   "sha": "e7e6091d0c3d1a718d4eed9604ec2f2b1dc9647b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_5f143edb-87c9-43d8-a68d-29610bfb8d10.json",
+   "type": "blob",
+   "sha": "e4beec6b57133fef95b3ff36cca3b1a127abb23c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_5f199f2b-4a82-4779-89cb-b33432e6e3db.json",
+   "type": "blob",
+   "sha": "e702438c0095d56c6de85222cd4706b751c99806"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_5ff394bd-6ba0-4196-9224-58fd945a4ef0.json",
+   "type": "blob",
+   "sha": "79951fccc870b2ada81f3e756973d87024b6c91c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_61aee1e4-2504-42be-ab80-359ed1eec282.json",
+   "type": "blob",
+   "sha": "818df92d77d06994df1c572568b664cafe0d8494"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_63c2426a-596b-4937-af4c-64a735d9bc64.json",
+   "type": "blob",
+   "sha": "de38f9b9b21e86e1234258278641b4bd5b943d47"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_67c2fb6d-396a-4599-94d6-d3f8dc6f453b.json",
+   "type": "blob",
+   "sha": "9b9266415195a145c8850d6e60482217db53628b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_6eeb35b5-4087-42b6-8429-8784caea13b4.json",
+   "type": "blob",
+   "sha": "1fb235431cdd4f0f30dd0a9ba871fc321dceb575"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_712b14b7-7851-48c7-9be8-84306a4a5d00.json",
+   "type": "blob",
+   "sha": "aaf98e4a431fb979fa5fac02147796dea3f2c419"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_715755ce-1642-46ed-b8cc-aa2ee1234808.json",
+   "type": "blob",
+   "sha": "48259c2c23107ea9ef481f67ab0703dbbff07c92"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_72adf14a-1010-44dd-b3c0-b59d2cc2e1cd.json",
+   "type": "blob",
+   "sha": "67061b62b679e3a8916b7ee8289ec684d1f7d4ef"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_7e3748ea-0027-4a61-8691-09dd71b67ecb.json",
+   "type": "blob",
+   "sha": "2def42bc721fff785a8b77b7af174758419fa6b2"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_836f1050-6ed1-4d2f-9abe-0be47432a751.json",
+   "type": "blob",
+   "sha": "23fe53a872177446fdb3e0c2b814bce69dc47fe4"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_859a103a-d49a-47cb-8f88-ee56885405d8.json",
+   "type": "blob",
+   "sha": "60ce4088326d87d6e437227afcab3dc5f1f841ce"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_87784ed1-34fa-4147-9263-c7d5396cdd12.json",
+   "type": "blob",
+   "sha": "9c51b0534047257612b343f7d19cf80870111f3b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_8c168e4d-f33e-4b6d-a273-de7bc9615846.json",
+   "type": "blob",
+   "sha": "4d8fde1e62c9b9f4508e3637d5b5c86d7c2c26a7"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_8c59de1a-02c7-45fa-9097-46d675ce5cb0.json",
+   "type": "blob",
+   "sha": "0025ef4c583b757bd890be04fbfd44af9f8d52ec"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_8c94941f-d0ac-49fd-8537-d60e06c2d90e.json",
+   "type": "blob",
+   "sha": "8ecbecb8c861dc17731f0468af83416a74bb12e2"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_8e826a0f-6d2e-4fab-875a-89641fcc817f.json",
+   "type": "blob",
+   "sha": "10197584cf95b58b557d080ce3c5132ebaf0a015"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_926caed8-7b46-4fb7-b4d8-3918a2da3b9d.json",
+   "type": "blob",
+   "sha": "21a75b365abcc5dda6ce0f037fa423015eec382f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_94bf7c4a-70e2-4b67-a62a-63301f7efbc3.json",
+   "type": "blob",
+   "sha": "bed4cfef0c8620f59a279efb13f7cad648d2a75c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_981a4a90-94b1-4990-b327-6388f4e42fee.json",
+   "type": "blob",
+   "sha": "e9d6ae16076d760770a87790639b287b2f78797f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_98ed6a27-4bc6-4805-98ed-97a890a85e3e.json",
+   "type": "blob",
+   "sha": "74be23b10557e96ecf55c2bf74ce7a0b1e1ab846"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_992231b0-98fd-427e-a955-f7d25f5f3a7c.json",
+   "type": "blob",
+   "sha": "eaa87b924fa9b4bb443f31ec5af2d8bca4c79a0c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_9c394ce7-95f2-4696-9030-be1bdf0b7e04.json",
+   "type": "blob",
+   "sha": "9701138f08ef7c7e1d66d04a654080aaa088057f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_a67c0ac8-0f88-4213-8468-de477ed2659f.json",
+   "type": "blob",
+   "sha": "67ce67163f041b44f7546e5151491731a1cbc91f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_ab59c075-10dc-4e54-b57c-24b052188c00.json",
+   "type": "blob",
+   "sha": "eca7cf781df787fc34fce40a49cefbb04423c825"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_ac32578e-0150-4198-b4df-f3c2c12c699c.json",
+   "type": "blob",
+   "sha": "75b420ad94cedafc3515df1570d3dcc7c127147d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_ae30ba61-2e7a-4b58-9ff9-fc216facadb8.json",
+   "type": "blob",
+   "sha": "18c3ecd87cad9a7ee9f090ec099ce38d9c598216"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_ae5f84b5-a520-4c0d-bc25-d72fc2e490b5.json",
+   "type": "blob",
+   "sha": "b5c6d40f8ae7f5c9bb99958b7c1225f59999e396"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_afcb17df-f533-493b-81f7-2d632ab8baed.json",
+   "type": "blob",
+   "sha": "c14f0f71f26163b213c11a6bc04c531bf8a21c61"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_b242cd29-6dc8-40dc-bf0c-815e75da0438.json",
+   "type": "blob",
+   "sha": "d39a790159b220592c96ff0e787347922f01ff65"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_b9df7c92-3c73-4513-9e04-2028887c19ca.json",
+   "type": "blob",
+   "sha": "f7ddd0694cfbb428c35db1fb7a169dc0bdeffc2c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_ba51daa3-9da2-410e-a220-56f9df7b874b.json",
+   "type": "blob",
+   "sha": "f849540c1728bc37bdf64f90401044052b122148"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_bb92b4fa-3533-4eb8-acd4-35fe8ab518c2.json",
+   "type": "blob",
+   "sha": "bf49f54882b65c2210764f55a0b3089c2a41223e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_bcf7baa2-8593-47ff-8f9f-38a82b06bd3f.json",
+   "type": "blob",
+   "sha": "665a34806f04ca67da4f607621a9ca64a12bc761"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_bdeed571-0720-46f1-9c67-3e84149c6373.json",
+   "type": "blob",
+   "sha": "237cc918ab547285c5210da0744753722f9815b1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_c34f78a1-fb7e-4d0f-8f50-f56e6ac04241.json",
+   "type": "blob",
+   "sha": "1caf7d460f80943a418321ef8629da82c9150b59"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_d2795798-bdcf-4a48-8582-fc287a5fe96e.json",
+   "type": "blob",
+   "sha": "656a6d6fa36dd07f4b2925d3cc0e03a0cb396034"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_d6ed713c-c0ad-47e8-830f-a3ec2455f388.json",
+   "type": "blob",
+   "sha": "d0ed6a4a0cd259b2608e1db69a22ed724bdc9d85"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_d84301a2-b638-4549-93f6-62b9cdc68b83.json",
+   "type": "blob",
+   "sha": "baf50fb00b03de9979d50df8507fdbd09d10ca93"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_d8e89167-2a38-4817-ad61-660b8b3b86fe.json",
+   "type": "blob",
+   "sha": "35ff23af8600b1dc2f5c95a96c02a69b79cbcd29"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_dce7c44e-04aa-4300-b476-5a12b156a3dd.json",
+   "type": "blob",
+   "sha": "a6b8b883751a40faddce6453e059232e9e2bf3e9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_dd0373bf-521d-4894-9898-3eac1ac97b2b.json",
+   "type": "blob",
+   "sha": "328f9534f74b9a953dae4917cbd27aa49d4b3685"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_dd3ddc54-3e75-4003-b99c-db1677948e80.json",
+   "type": "blob",
+   "sha": "f23ff8ff9ddd0ead1bddf8895ad439f982a24b79"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_e210965c-f877-44a3-86a6-e788147812ff.json",
+   "type": "blob",
+   "sha": "80d6b75f0f375d38bb6c35d8e2fce5b3a30dd828"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_eb6b8ee1-4718-445a-94db-fd26ddce89ea.json",
+   "type": "blob",
+   "sha": "323c04d039fc3906af4bd3c627e022cec05df903"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_ed1430b1-fe3b-479f-a69d-803f2b68eb58.json",
+   "type": "blob",
+   "sha": "19fce49d32afe3bc42f29c1526f3e7d474ceb385"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_f1265bf3-bc84-4d3b-9c7e-0a7b6aefa997.json",
+   "type": "blob",
+   "sha": "cd647c580e3fede7b1d81a71db76784e449c3ae0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_f181a5ac-b61d-4036-95dd-c74ba00ca3f4.json",
+   "type": "blob",
+   "sha": "b17fe8fba93a7cf55c4a88052d136776878643bc"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_f1bfcc80-ac6e-4c3a-9812-b663bc7dbdcb.json",
+   "type": "blob",
+   "sha": "6e499280e8de7c0e2efc9ab154e2b651338dcfe9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_f5fac945-854a-42e9-9ccd-bf8c2fef60f8.json",
+   "type": "blob",
+   "sha": "5e5dc45adfd332e9a01e1190d547f77f56f76853"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/airline_failed_qwen3-max_fc303669-8e44-4f84-8021-5b94fae1fdf6.json",
+   "type": "blob",
+   "sha": "d0516f4766b4f43a388d0d641cc4e2332415a374"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_0498e32d-ea9e-4799-b8f2-89644f3ae1a0.json",
+   "type": "blob",
+   "sha": "3d8f0dc6e9d5be9dd4e0db7d375b21cd86d6f5cc"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_04f38d18-e4e6-40ed-aa0d-abd62be31a69.json",
+   "type": "blob",
+   "sha": "73127c63e24236617714b9cf7ff7bb1b2b35e32b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_051aa4f2-a922-4f28-ae4c-79094de87dbb.json",
+   "type": "blob",
+   "sha": "0921d99efcb5c0a57d7a28083db89e0c18a287ca"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_06f77d1f-8895-44be-a647-c9746458acb0.json",
+   "type": "blob",
+   "sha": "d554e0a882800853ef59347edb2a5e90267482ed"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_08958635-d381-43a2-8c05-00cee3b94ff0.json",
+   "type": "blob",
+   "sha": "9cb6f9e2d84a4ba7a8aa17ae2869a480f5ded98b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_0b2e1ba9-7751-4577-a4bb-8f50c27a3e74.json",
+   "type": "blob",
+   "sha": "fac951c8097ff0f7f3836e116889bedb59b27e06"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_11c9cb4f-e05e-4bbc-a156-147bd710936e.json",
+   "type": "blob",
+   "sha": "ed0b0d22809b13f1e877de2c27be1ff04a33b4ac"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_16a20200-caa4-44b6-afdf-8ba445e87e8c.json",
+   "type": "blob",
+   "sha": "f3d0f19fa329ad010f42d90397f7083a8c383421"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_16e7fc1c-ad74-4f88-9738-3adbbe0bc839.json",
+   "type": "blob",
+   "sha": "8241cccbf25127f9c967d466b1e8a9b0b5539e07"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_17b45be1-5df4-457e-88c5-499e938edf3d.json",
+   "type": "blob",
+   "sha": "f9ef4335288018b4283532d508286398cc060bea"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_19976b1b-4563-4677-8905-ad494d6f8b0f.json",
+   "type": "blob",
+   "sha": "890be277ce0a023697bdc70583a3ada00c57e12a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_1ae508c9-ed12-4ef2-b77f-0042b0f960eb.json",
+   "type": "blob",
+   "sha": "b4a1f16c83a9380cc197c8d7a56619ee716bb30a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_1c9b0760-cad0-4be1-8e60-b9284c9b2032.json",
+   "type": "blob",
+   "sha": "7ced508f1d694a43b093568073729b32f4e25491"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_1d3e4a5b-9618-40f9-8bc3-87752471ddca.json",
+   "type": "blob",
+   "sha": "5e4d69c77ea05f1513634a10a990d7dec7dd9327"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_1fe80146-944d-4d92-ace8-840965ec373a.json",
+   "type": "blob",
+   "sha": "7ced167c56bdc1066a1ce74042e98e3cfb6f2b43"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_20e929eb-a586-4df8-b84a-f32bb1b41fa8.json",
+   "type": "blob",
+   "sha": "16302b18415290dee46189e04c74ee3db8203607"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_21e32d59-6107-41a9-acfd-0e39d39c4a25.json",
+   "type": "blob",
+   "sha": "36a0a5591f0ac2a232e9a23f51a096a5ec719af4"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_2524ed31-49a4-4e63-bf1d-e67d1966c2d1.json",
+   "type": "blob",
+   "sha": "dc5dac98b94d35401c71d09a77ea7184473a70bb"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_27461340-f14e-4d46-a265-1bc2275293e7.json",
+   "type": "blob",
+   "sha": "13893190974acb9ed63e7c86d37db949c4838256"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_29d60ce1-0b71-4aae-9c1e-6e4c1c8f0998.json",
+   "type": "blob",
+   "sha": "0659c4fd40efa5449b0691abfcac1ee421a93a82"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_2ca131a0-c68a-486a-ab87-50ccb1ceb1bd.json",
+   "type": "blob",
+   "sha": "fdec8774f1b31aa9019270bc7b98d91f0e434d0c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_3132548c-6f87-4922-ab58-87b300a5a21b.json",
+   "type": "blob",
+   "sha": "6ee38ae1ce7154273dc213c6031bfb76e4d1badf"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_31674259-8d5b-4a9b-88df-bf4591e14187.json",
+   "type": "blob",
+   "sha": "7d0b2106ef15367d2bdda83fb903527c2c760e5a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_33a2f85d-f634-4d17-b792-1f5694ac1634.json",
+   "type": "blob",
+   "sha": "beaab87aaa85cf1bf90b6c5f8637ece2fc6c72c5"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_3465bff2-2ccb-4edc-886f-08f6feaa0065.json",
+   "type": "blob",
+   "sha": "4000b5d81100b1f503804109abb8bd598505cdb9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_357747f4-77c6-41fe-9e85-9c919ffb7875.json",
+   "type": "blob",
+   "sha": "123d29a432da987bf25367d89da8cd7f72db1eef"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_39f10308-d45a-4ef1-9ebf-5a100ba8b114.json",
+   "type": "blob",
+   "sha": "942f36465a8c4c9d049b6e6b4039a339b351a340"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_3e7bba30-ef3e-4865-b82b-5821c88c4000.json",
+   "type": "blob",
+   "sha": "7903a4c4f066e55bb4b34b4136a2ea29164e96ab"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_44bbde0d-23f3-4b30-a971-2576f0a4457d.json",
+   "type": "blob",
+   "sha": "db415b71b6b7bbfe78a037ec84274b37c0c0ab3a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_45216a21-af15-4b83-86c9-593a119ec5c3.json",
+   "type": "blob",
+   "sha": "e6b52d1dac48b5e751aedf37c6e142dcb83ec86a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_4be6a8d8-d272-4303-83cc-129d9a06ca0a.json",
+   "type": "blob",
+   "sha": "ee2de4289efadb902010e2e711919ba2c778ff88"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_4e150779-122e-49b3-ac31-4cf3c02a8476.json",
+   "type": "blob",
+   "sha": "4b5f817092975343411a4d5b339aefb1f69b537c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_5079a69b-a059-41da-af79-51a0015b76d0.json",
+   "type": "blob",
+   "sha": "c453a120212c0395242d9eb2e0ee3736800708c7"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_509e63f4-6e68-4181-818d-149e0e42fe32.json",
+   "type": "blob",
+   "sha": "b55613acc32ecdfc809bf8b6bb0c7c4a2b4fa31a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_537bcfdc-7f20-4620-87ae-33d5b9004771.json",
+   "type": "blob",
+   "sha": "8c4827be66173c1ec2ae4738da51bb7c5db73a98"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_53f57dc6-4185-40be-bf38-d9bb127d2bcf.json",
+   "type": "blob",
+   "sha": "ec7318c8f93f04a2536dfe49c3a4b9f2badee100"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_54254ec2-ab84-400c-ac44-323ec71671ec.json",
+   "type": "blob",
+   "sha": "739a05ca685baf78eb5a1a257e774d4a0ea0bf81"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_5439f38c-9ce5-4a8d-8010-1ead6d2d634e.json",
+   "type": "blob",
+   "sha": "6849cd80b10cacec5ab592bfd4a8bf7d10dd7fab"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_5468bd1c-055a-47f9-a9ce-07bb10a917bf.json",
+   "type": "blob",
+   "sha": "6d379239cdcb8ba8401c4a4b4226ae3730239763"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_5688db2f-16ee-47f2-b656-9d8b244a7c94.json",
+   "type": "blob",
+   "sha": "2286e2caf669b680f8baa8b57cd902e49f94e577"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_5ae44638-29d7-46e3-997e-04029947718b.json",
+   "type": "blob",
+   "sha": "8bce220c3c6b2e81847a9b3b7cb99e9d164c480f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_5b6c2de7-42b1-409f-a6dc-cc5c5c8421aa.json",
+   "type": "blob",
+   "sha": "ea0314f2d1cb840037cd817d64583914be825c3f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_613e25a4-3c1e-4adf-b888-0c892bcd3937.json",
+   "type": "blob",
+   "sha": "bebf6e184de8ea645d9512c062cf47f9aabf40a5"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_63baa0ae-f928-46a3-8522-986b8631d22c.json",
+   "type": "blob",
+   "sha": "989c033f9057c46d3bac41bea96b5385345c93c6"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_65bbd118-c8fa-4dd9-bb89-9664ec86b0a6.json",
+   "type": "blob",
+   "sha": "ab06d7171b3e26475d1ebd152ef32d67671e54ab"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_6694b3b6-4a14-405f-a488-1203fbf1abfb.json",
+   "type": "blob",
+   "sha": "c248ae40542cae7209bc5ee2bf3dfed65e2d66f6"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_67abbdbe-7a88-4f90-9cec-9f1264cbcb69.json",
+   "type": "blob",
+   "sha": "35a4ea4b36d82f8c3ad231d842b1eb1d6fd76596"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_6bede429-9da6-498a-8a00-c4f350edcd42.json",
+   "type": "blob",
+   "sha": "60a800a8dafbedb8a24287bca3aff69e9c34dcd7"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_6d6f64a4-52b6-4e5b-9ba6-06b71dc876b6.json",
+   "type": "blob",
+   "sha": "c377b71bdf1281d28c9fe7de55b065bd7b80c255"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_6fd4fb89-4b2d-495f-afb9-0c49e32a7a5a.json",
+   "type": "blob",
+   "sha": "7c8d9478d6fab8790417ca3ad262fba857338479"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_72db038b-4205-4333-aa52-075fff2173a4.json",
+   "type": "blob",
+   "sha": "9729c83d4cb1b04423a9c5ccb8793e182dbb155a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_765a5f45-857a-4ef6-8254-c8bd73810f7d.json",
+   "type": "blob",
+   "sha": "05dc8ea421c696f1037474ae4ee4be3c28e357dd"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_77850de2-ccb1-4fe6-86d3-ed5a116d4f6e.json",
+   "type": "blob",
+   "sha": "11c87621b801abd16f1ab8c2972945d347fea7bf"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_78d18460-4ab9-4e61-9bdc-768d53b271b4.json",
+   "type": "blob",
+   "sha": "2f5d3bcb2b894ba7cb606c3b85e3280f70455203"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_7b8f7044-f24c-4bfc-9d08-15f292459400.json",
+   "type": "blob",
+   "sha": "4edb0c14598ec3565f808bb842c15cd301fbe467"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_7bf8cbd4-d023-4913-ae6f-de9805179cfc.json",
+   "type": "blob",
+   "sha": "f45b49cf75f9281b5d5dc132cdbd2eeb44ad05d7"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_7c79fdda-5de5-4826-a5e9-492dc613b0a7.json",
+   "type": "blob",
+   "sha": "ad1383a8db045707d04f8d34adb7abe9a24d9c0a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_7d857e8b-90a5-4b0a-b431-45fc828359c0.json",
+   "type": "blob",
+   "sha": "d75d2cc283e22f2c8394181aca91ce74d03b3a68"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_8417f19a-7189-4621-97c4-7dc503b81164.json",
+   "type": "blob",
+   "sha": "015c2de6bc204a54af1c73b377ef8cd29d09983e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_88e536bc-02f7-441f-9807-a7ad3f68ead0.json",
+   "type": "blob",
+   "sha": "367fb2f8ac3501bc7a196fbbdbc34194330ee78e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_8cd84a02-54b8-4b2d-9a55-f3ebffc3397b.json",
+   "type": "blob",
+   "sha": "f87ea9ec869864fcece8b0ef80ed15c859b3cacf"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_8d47019c-0501-4791-b2e3-d2d81f344f89.json",
+   "type": "blob",
+   "sha": "178de25778fc3e01c97ed695b64250c5770aa191"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_8dbc6f1c-2257-41c6-bcec-e3c2266aedcf.json",
+   "type": "blob",
+   "sha": "f61d54255601742f4b493967a2114cd78c458b54"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_90dece86-9942-4030-91c3-cd45e00c45e4.json",
+   "type": "blob",
+   "sha": "797fdadf2595735d6c63d0a80a471d0970cb226e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_91280cfa-9966-47cc-bb14-0c188e25d7d8.json",
+   "type": "blob",
+   "sha": "c2a49485874c1e830a40ebf2b694f6ccc9bc529e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_940607c4-f59a-41c5-812a-42c9e629b903.json",
+   "type": "blob",
+   "sha": "167dab091283ff51c0649f2abb4d4b4d45436422"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_955fa4a4-411f-4541-84af-3f9771aa30b6.json",
+   "type": "blob",
+   "sha": "7540b732f1ccda53ca277223032fe5483a003e27"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_97b4b6e0-a7b9-416a-a12d-e8e136cb9b76.json",
+   "type": "blob",
+   "sha": "5c3e7ac099ce8c65326ced679d2276722d668f59"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_9a5cea36-019c-40ee-b6d3-c6078a71d825.json",
+   "type": "blob",
+   "sha": "06de634e07f93ce7da99e9bc757298841e3247cc"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_9fb4e6c3-bbb9-431f-a49d-44ca70f8a96c.json",
+   "type": "blob",
+   "sha": "b80f5489e55895358c417a8b0fc263a9f197d51c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_a63d0505-401a-487c-9ef6-dfaf5d40b480.json",
+   "type": "blob",
+   "sha": "9a80cc853673d480f5df64ae196814571af18c89"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_a7e60d08-52ee-4c8c-9475-d24da7dade9f.json",
+   "type": "blob",
+   "sha": "ea6ccc8d441dd8bf508de6e203fcd3b188bdbbb8"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_a9f9e61f-4e68-423d-b051-bccf12963314.json",
+   "type": "blob",
+   "sha": "63c9a9c1d0316163b225a50083c7e473492a71ac"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_aa7d8315-d534-4fa1-9400-7b65ff61a989.json",
+   "type": "blob",
+   "sha": "797493415726b9537c3700f191c9eb906976fd2c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_aabdd22b-7d25-4a38-98d8-322527ef0d5c.json",
+   "type": "blob",
+   "sha": "bb6aa0c871a0d8fe90ae40013871b0fc85657c0f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_adff453e-3887-40d1-ba62-37686dc02be6.json",
+   "type": "blob",
+   "sha": "28fbad66a273228803a22ad2b52abd135b077366"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_b27b3d9f-dbfd-4a1b-83a5-ffb0c122cf38.json",
+   "type": "blob",
+   "sha": "1fa7eca1c45bbaba9aa3b1ea8e286448dab9d722"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_b3d63b54-2c0e-4b69-9ce8-6f543918b192.json",
+   "type": "blob",
+   "sha": "ded5eac5c08e0e1e0715b6dcea1cadecedaf6121"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_baf05bd5-29c5-4f09-8c21-96052f0c434b.json",
+   "type": "blob",
+   "sha": "b07472cebb568b4048951dcbd91b3341b8c862e2"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_bb1e682b-852c-443a-9acb-5a85e61b1cf1.json",
+   "type": "blob",
+   "sha": "a479b3101337362f58af6657421e2b97c40757ab"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_bbaee1ca-59d5-4ab4-baac-c8570bf85b40.json",
+   "type": "blob",
+   "sha": "4ffe34088bb7624efa6c372e18406f9d359f8888"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_bbbc635b-8fb4-4899-87f9-7568c5c34c12.json",
+   "type": "blob",
+   "sha": "b0fe1f4d0da79f2748a08ed8d7eb06852c07de94"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_bd23964f-5c59-4963-8375-03614a6e2dd3.json",
+   "type": "blob",
+   "sha": "d91c1ed9b70f2ed4aa129220f03e69f67c55a782"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_c1453b1f-9812-44a7-b4e8-4193e5309fb8.json",
+   "type": "blob",
+   "sha": "bfce2d21f541ed9b7e2d881d2f3552c288fc29be"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_c1e358ac-4702-4122-ac9c-af242b119767.json",
+   "type": "blob",
+   "sha": "6af990863f5968d0c3a2c5bfe26fc35bab10fc00"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_c21d8fcf-6ce2-47ca-943e-dfea1776b3c7.json",
+   "type": "blob",
+   "sha": "a944fe7385dbb382f7acec6b19a3612e6f4409fb"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_c511bef5-ba9f-4e39-bc53-f9ca9e36ca4f.json",
+   "type": "blob",
+   "sha": "d72b4bffeefa2cfb869e417a42ba11a739088532"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_cd8439cc-25c5-48b6-a71e-bb5c848e9996.json",
+   "type": "blob",
+   "sha": "9c8731fce4c9f170765a8598f441a85e7fe505d8"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_cd869bc4-614b-4e17-a67a-bca5f0eacc4a.json",
+   "type": "blob",
+   "sha": "b3ffd385b8052ec6a91e6083f08dbffe313f399c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_ce606df3-f1be-4b77-b472-5b9ae0b189c0.json",
+   "type": "blob",
+   "sha": "bca4a93f5db69355b723042673e6efe479cdbd58"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_d069f58e-dcca-417f-9472-0d5b34636de7.json",
+   "type": "blob",
+   "sha": "217e942a21e89bc64e67d675a457d2dfe523298e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_d514d67b-f720-4d2c-a33a-6d07f513cb89.json",
+   "type": "blob",
+   "sha": "67c2102184e92b98ad5007993bc0e63ac08ae447"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_d9fa083e-54d8-4165-99f8-42895b016aa0.json",
+   "type": "blob",
+   "sha": "ef889ff386a1f82948024b5ef99fd051f77daebc"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_dca5b8f7-f248-4eb8-af78-a1262e0e4694.json",
+   "type": "blob",
+   "sha": "faa2414deb012c813b29cee96a54d49ffb5d2558"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_dd79a33c-b5c3-466a-bfd7-c88ad3194f80.json",
+   "type": "blob",
+   "sha": "e219e99b65ceae75cd006324fe461e83bb39e1f1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_de4ee21a-bea6-4294-a13e-11c6ec171e74.json",
+   "type": "blob",
+   "sha": "328419aa457993187ed066a4ff0e1f202eb7f164"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_de92188f-743e-469c-9667-cff2db9c42ed.json",
+   "type": "blob",
+   "sha": "3f813095843fe91f4a8087b20533bfe02bb86521"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_e516c4f9-44a6-4383-b028-554da65b72d2.json",
+   "type": "blob",
+   "sha": "adf05fc87d7bd4a2d7d1faee5d71c3242ca2fa2b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_e8abe935-42be-42b6-acbe-ce1ffec1c93e.json",
+   "type": "blob",
+   "sha": "33ef877aa60defd1da946a656f94be4d0c39cd6d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_eb935e91-47b2-43a0-99fc-e13f046589b7.json",
+   "type": "blob",
+   "sha": "147c4ce0ef85a809c806cec115c444500da7e1b2"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_ecc05e43-0738-413a-994f-665974111732.json",
+   "type": "blob",
+   "sha": "241b8e979b5054fdb2cdf63c5de0b87524f2f0c8"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_f1ef4ebf-cb4a-4921-b4e4-875c7e1da24d.json",
+   "type": "blob",
+   "sha": "8ef8ca9e66e2362f1cc5d1bf34d8a5d0f2360437"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_deepseek-reasoner_fc67c3f4-2d68-4fb1-91e2-664528ca78cd.json",
+   "type": "blob",
+   "sha": "92df4eb35a88bb5cfa774eedfab29994116a64d6"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_05bb39c2-3ea6-46f3-89ad-1e057a5e935a.json",
+   "type": "blob",
+   "sha": "139993fd12fe3c3411b87152e6ce9307cc9ea222"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_0689c94c-ba7c-4af7-837c-130cb8ffcb0c.json",
+   "type": "blob",
+   "sha": "f1e411316ee5b3e304039f655916a918f72e2c8d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_09ccaf41-289b-4dad-a3cb-1a12722b2789.json",
+   "type": "blob",
+   "sha": "6047fd2eadc904345c71b31b869c2e3e87771317"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_0a380332-d969-4571-8fa8-ee457628b5d3.json",
+   "type": "blob",
+   "sha": "91d2d59e6d62ed3c941e1368762012efc3fbd4ba"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_0e6ddf61-0ca7-4ecc-aafb-153a5b85ce61.json",
+   "type": "blob",
+   "sha": "b74279727dcf0eccdab43bef9eb260609afa8df1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_12431276-645a-4ce4-acf3-3cd86bb05516.json",
+   "type": "blob",
+   "sha": "09b077bd55762e05521aa3260ecaa3157c190403"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_14e95dea-b4a6-4421-befa-931bd91e6444.json",
+   "type": "blob",
+   "sha": "6231b4e79a88aeefbaaea4ed345a7d0d015bdd91"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_1a7f345d-d9fa-41a3-bd17-62d7028324cd.json",
+   "type": "blob",
+   "sha": "10c9acf1144775d4e646a7432d3558acb68cfdf0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_1c46a08e-785e-40b7-80af-5b9e49bb0b48.json",
+   "type": "blob",
+   "sha": "648ee17f1bdd5a55dec6d2ccee99af4c6428f5bf"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_1f63bf29-4d06-4b5a-96f1-1387b25b8e21.json",
+   "type": "blob",
+   "sha": "2130cfa1aaa199e21698e64381f4d6326af000b9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_1f9a6c6e-9ec6-46c7-88d9-d799f7fed6f3.json",
+   "type": "blob",
+   "sha": "8719f19ee8764aef29766a811e316b155a6cb051"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_2113ed11-6102-4414-b97f-ff2c49ef3547.json",
+   "type": "blob",
+   "sha": "857114f1dd1d89b59d1ffe3c3a2ee3ec4b9cce27"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_28a1bd39-5d91-4087-be41-d0ff194eb0e2.json",
+   "type": "blob",
+   "sha": "0d0c36b023a7db68b4adb8b0b1755d2cd9b0ca90"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_29051f0d-984c-4a2f-b43e-2821f35c29d1.json",
+   "type": "blob",
+   "sha": "b1b63f71eebc0ec7ad41c3b43fb554e457ecaa9f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_2ab60426-d6f4-4144-a2d4-67d7f418e6d4.json",
+   "type": "blob",
+   "sha": "8cbac28fea41acd47acebd3a55a6cfe91a49321a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_2cd663d7-5376-4117-ab2d-9cca6e2ca612.json",
+   "type": "blob",
+   "sha": "1aa2f2907b5518c3f361799d559bf74b90cf9825"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_32069465-e7ca-4e75-8421-15876dc176bc.json",
+   "type": "blob",
+   "sha": "e1309941988727329f91434dabddcf58e838b004"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_33551132-6bfd-4aa5-9227-560a60b0479d.json",
+   "type": "blob",
+   "sha": "e1e9e134d463023f5de2a1f69a58d985d9231416"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_3d836ad5-e00a-46f0-a48d-96a137e13bf6.json",
+   "type": "blob",
+   "sha": "9da44c4d2679eb388fc0cd29868ec9e317e92b5f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_42fa9fab-b296-442a-be2c-b29033a1e77c.json",
+   "type": "blob",
+   "sha": "4b138534a4a175aba20f19e1f9114a1f0e27fa08"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_4585f035-08a5-4112-a615-17b4d0a08974.json",
+   "type": "blob",
+   "sha": "788baa3ab99bef3d9ce2db5b660fedfe94a3f169"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_4b7793ca-4a6e-412a-9a0e-379b5eaf14a8.json",
+   "type": "blob",
+   "sha": "a46dc428641193dca333c68d56f1f985e4d5e055"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_4e25e836-e8f0-4698-aa7f-f8fcbebccc6b.json",
+   "type": "blob",
+   "sha": "613eb7c66f74fcc21a034454c47554cb230311a8"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_500e80c9-9f1d-45a4-937c-1d56d2b734c0.json",
+   "type": "blob",
+   "sha": "5736559e065818f5885092a18391d9de73fdd346"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_5609b557-9d16-4684-957c-1997f05de9be.json",
+   "type": "blob",
+   "sha": "93f93a8e516752f3328c6a731fecec998f6d61cc"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_58d87eec-2537-4538-9a66-d632165e543a.json",
+   "type": "blob",
+   "sha": "7b2da65c4ae68f62d8ca787ae1719d641d53e4bb"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_598b52eb-62b2-4049-a930-0f793a9e6363.json",
+   "type": "blob",
+   "sha": "90dc85812d21f4cd652f6c3072c04bae78fe6df7"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_5a3a7858-f5d7-4aca-8a2b-b8e2187b6ed7.json",
+   "type": "blob",
+   "sha": "416fd11c64db618cf39b377ad57f428ba0252899"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_66e829ea-edab-4aab-b9e7-97768f66ccbb.json",
+   "type": "blob",
+   "sha": "a1d8d460a661ea27d1ea4bad9884e285bcb9aefa"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_6a5b5e41-19b7-4fd1-890e-3a7abe2ba9e7.json",
+   "type": "blob",
+   "sha": "d5f9edfa9a81fa2cdf64486b0fad0700a3afba9f"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_6c8923ed-91b4-4531-927d-5ef0cf94fc4f.json",
+   "type": "blob",
+   "sha": "dd2e6314cccfb76575fd90aa82e62cbd64cbafb0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_6f9b80bf-11a8-4254-9545-6983a08fb987.json",
+   "type": "blob",
+   "sha": "82d8f73a5fdb7959bdcd84c4165dbcbe42a4d4da"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_6fa50ed0-0d7c-47a5-9887-03a5220d2757.json",
+   "type": "blob",
+   "sha": "9dae556d188f7c9780b97b48c380f8587f4e34fb"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_730d130b-9f8e-491d-bf6c-cdb0530b1f3d.json",
+   "type": "blob",
+   "sha": "84a42c6c038880a3a77f241ba474c6e9306429d0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_76df7756-7940-42fd-accf-cfaee1765817.json",
+   "type": "blob",
+   "sha": "a21986ba242dab43156f1ade65772c1b56420b0a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_786967cd-17ee-45e3-8ad8-8c8338ebc4b1.json",
+   "type": "blob",
+   "sha": "5442b308ef12f4eb8ca5c9daaee2651644213194"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_7c406d0c-8cbc-40fd-8007-0a687bd8fb2d.json",
+   "type": "blob",
+   "sha": "400d4d1ec763439aea772ad0153478dd87062689"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_827d86b9-9770-4855-85a3-65c5b18c825f.json",
+   "type": "blob",
+   "sha": "d40471bb4d7b92a8746087b66cc9f8e3b1a05d75"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_83750e7a-0116-43d0-a4fe-3f558b99379e.json",
+   "type": "blob",
+   "sha": "f8a96b09c399b5bb7e5e26e2996201055881ad21"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_83c19a5e-ade9-4368-a949-09c39c3fd598.json",
+   "type": "blob",
+   "sha": "0f7063d5bf604b7931d04dd12a85d3eeb0b3fe6c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_8f4a9b83-05fb-4309-8ec9-489a6d6cb247.json",
+   "type": "blob",
+   "sha": "342405d273598e492552e617a1a892067b2a50a2"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_8f861116-88f8-44b9-a0a3-67c0f9410038.json",
+   "type": "blob",
+   "sha": "db114a4f8bd4a6708af4a33fd01e90e6147b8df4"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_97342164-7ecb-405d-b5a6-39f9d722b13d.json",
+   "type": "blob",
+   "sha": "3eb993ee355bfc15c1c41ca65564b79962714f33"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_99e140da-c012-4b20-a713-44c686f4546d.json",
+   "type": "blob",
+   "sha": "87ef22e3da43c835dcee01a38cf2b72e8c6e70ef"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_9a55695f-97a4-4702-b1c3-4074158cdd9f.json",
+   "type": "blob",
+   "sha": "cc6f4b8051da31b61686495fd55d5a283695b6be"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_a3478d8b-0946-42d0-8049-cab189442857.json",
+   "type": "blob",
+   "sha": "b414888a4c01ef33f3fe37b624c364a2c98cda67"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_a3a8c58c-3e67-4aa6-aed4-17f4b7dd82be.json",
+   "type": "blob",
+   "sha": "b8e510311d98ba8120be3896efc8527c7c07c1ed"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_a3c17b28-b14e-4b9e-8291-d131d22899de.json",
+   "type": "blob",
+   "sha": "93c6775d289ab8a91fdf68d50b093a96d822f49c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_a8fc7388-43da-4388-b2d5-77f0c6fdb014.json",
+   "type": "blob",
+   "sha": "d3fc07f85615d83be439bfc0676d0ea4eea391c0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_af2ae61c-6251-495a-943d-cd3dd9ec3a3d.json",
+   "type": "blob",
+   "sha": "5474bbffde6e016af3aaf53ac2c19143feb2ea64"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_b011d4d7-879e-4f3f-a628-6f237a1bee8a.json",
+   "type": "blob",
+   "sha": "5baa49314c99621f8921437f7e732f6a10cdb6de"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_b6996ac3-f4bb-4e7d-a2d5-8432ca9fc4ff.json",
+   "type": "blob",
+   "sha": "78fca5e2ae0dc64341d87d5950262b4a3db6f239"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_ba21e203-6b2d-479e-80d9-1a3032492738.json",
+   "type": "blob",
+   "sha": "3cea95277d0cbb2ea53287f8973c6e85659b22a9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_bc7009b5-372c-4ff1-9072-3116871f5ace.json",
+   "type": "blob",
+   "sha": "28c780c77ff4d00497e41316c0c36038897f8ecd"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_bf0d63d1-788e-4de7-9e3d-bae55934b70b.json",
+   "type": "blob",
+   "sha": "0622998a86b22fe91b5377cf94051cc6c7fc63b0"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_c192036b-1318-44df-9abf-b3dd5128a2d7.json",
+   "type": "blob",
+   "sha": "b7dede35f73ea0fcc7e6b3815388c71e69ac201c"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_c3f37b99-8c5d-4567-b0e2-e02e1f5fddae.json",
+   "type": "blob",
+   "sha": "bf9dd17af097b66e3ee20cee7e209de164bbb059"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_cc302574-abf2-40d0-86ef-1b5b87b9e8d3.json",
+   "type": "blob",
+   "sha": "9c8b5cc722199a9dcd3f931a84d19e1a75fc0bf4"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_cd17388a-7627-42e0-a6f9-e4661c1f2d29.json",
+   "type": "blob",
+   "sha": "9bc952fca43a2030d60d3217ab83e24d1a7261cb"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_cf48796c-51a2-4be4-b427-c82d9a344106.json",
+   "type": "blob",
+   "sha": "7dd52c8fe0e9619db5d441cdb9560057eca97f9a"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_d6b22ac2-079f-4b5a-b1b4-4ddf6c20302a.json",
+   "type": "blob",
+   "sha": "a6902e856a07d3d9bec9a85c3c9d3874cef6f3eb"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_d92cb827-9548-4f1a-a58a-c2cf4d12558b.json",
+   "type": "blob",
+   "sha": "2d39e6987ee689a53500939531793e52ca71b108"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_dc62f645-fa10-48c4-bbdb-1a6f63bb15d8.json",
+   "type": "blob",
+   "sha": "19de73b19221909afc40f1c6ac47546b6f4025c1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_e374c4a1-644b-4fa2-89f9-5a7b7702cf5b.json",
+   "type": "blob",
+   "sha": "aa66b5a49897560fedfee1c4a6a1ceacb651d02e"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_e63c979d-bba6-499b-a377-fdf49d17fb23.json",
+   "type": "blob",
+   "sha": "f845ce67ea8aeb83fa874390f07ce05658ff439d"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_e698f8de-0f49-4c2e-9445-7567a4558626.json",
+   "type": "blob",
+   "sha": "d10878a7bcb77838cd75319a1566bec264f082e4"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_e8770864-f461-4281-8484-5a48e1de43a5.json",
+   "type": "blob",
+   "sha": "405b3d2f5917e105920878662adca11785d72e87"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_e8f6a10f-9124-4290-8451-534917ca18e8.json",
+   "type": "blob",
+   "sha": "b571152de23cba6b1ba99aff2d88c2a2e1b914aa"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_ea7eccd1-5704-410f-960e-9fc75c1677a7.json",
+   "type": "blob",
+   "sha": "cc8c38eb34c940586e50e35f5b2da6849ffc6181"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_ec69ace6-3bba-46a5-bb2d-643d25b71cf3.json",
+   "type": "blob",
+   "sha": "ab7b8b6024cc51a21a2bfb7bbbf756f07455f797"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_ed655070-01f8-4653-a3a0-591c7a0914ff.json",
+   "type": "blob",
+   "sha": "0319e25d3f1a2c773b7a345b1dd5d5e77cd24558"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_efadfc83-dd38-4dcc-a5c3-dfe07e0ea8a4.json",
+   "type": "blob",
+   "sha": "30a640e12f6a32bf9ce3079690585a10920d3825"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_efe7314b-977f-4d50-a0c3-9fe59639f8af.json",
+   "type": "blob",
+   "sha": "ae173ceeaf3bf2f8b14a4f4613581c8235c225f9"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_f3362419-7ab9-4264-ac10-47c609c3f4d9.json",
+   "type": "blob",
+   "sha": "e80d52e6b6fc89b38b8247d6cce2e9acc57a687b"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_fc51b4d5-d220-49d9-a376-78ca0dfd34a7.json",
+   "type": "blob",
+   "sha": "c434bb9ee89737bda13819683c9c10945507d7e1"
+  },
+  {
+   "path": "data/trajerrbench/zh/tau2bench/retail_failed_gpt-5_fd3b1013-6f3a-459e-a7fe-c9fe20725f12.json",
+   "type": "blob",
+   "sha": "70b65e013264652cb76023eedb179675691bba2b"
+  }
+ ]
+}

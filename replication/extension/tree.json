@@ -1,0 +1,3221 @@
+{
+ "sha": "2b47170c41913c8bdea34397f7d52c65360dcef9",
+ "tree": [
+  {
+   "path": "README.md",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "67fa92d5f3b8fda8891643d5053e8002cf921d7f",
+   "size": 9591,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/67fa92d5f3b8fda8891643d5053e8002cf921d7f"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_00c9f923-b838-4189-816b-45ddeb40f8ad.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ec0b618a9cdaf283e9f1b4c5d69ea4b9a7ded298",
+   "size": 28716,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ec0b618a9cdaf283e9f1b4c5d69ea4b9a7ded298"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_08bd862d-9ba4-4448-acbf-48d49283182a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1f7eab58a88e4870cec3319cdea2624e32919c06",
+   "size": 28933,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1f7eab58a88e4870cec3319cdea2624e32919c06"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_0ac266c4-484c-45ea-ab07-3f867151c191.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "322796dc1506a253b8bc07efa00c55bffdf621e9",
+   "size": 26430,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/322796dc1506a253b8bc07efa00c55bffdf621e9"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_0b9a5832-53f7-4440-85ae-051f2467e3f4.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "90584c1fbe6042730a5aa259108f40d10584e8e6",
+   "size": 43354,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/90584c1fbe6042730a5aa259108f40d10584e8e6"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_104acdf9-aa76-4783-b135-cf63b0120729.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9894b2f242bb12c1cfec74f699d2367c7ce9f1ae",
+   "size": 26800,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9894b2f242bb12c1cfec74f699d2367c7ce9f1ae"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_10a6b268-2715-48f4-be34-02ce90c233da.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "eed15cb578ffa17684fb03c2bbd36264a044dcc3",
+   "size": 51458,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/eed15cb578ffa17684fb03c2bbd36264a044dcc3"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_14dc7747-c72b-4fb2-bbb3-d2acb90e1145.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9fa73b76e8d1a1eb406799392b4b1976fa16485c",
+   "size": 27912,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9fa73b76e8d1a1eb406799392b4b1976fa16485c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_15556784-2d4a-46a1-83dc-0d981849d4f7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "063c92135a18d3adf33959d4cbbca820a2e23197",
+   "size": 40324,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/063c92135a18d3adf33959d4cbbca820a2e23197"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_157d8030-0cdc-4b09-bf07-d58ac7f45782.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d208c87a31fae4e97c160f3098cba6e2420236c5",
+   "size": 38254,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d208c87a31fae4e97c160f3098cba6e2420236c5"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_198d0603-3021-4c3a-bece-79c49191696d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5d8477a2da17811fc0724f526179ee99ee3a84cb",
+   "size": 28038,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5d8477a2da17811fc0724f526179ee99ee3a84cb"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_1a51b97c-320f-4849-8f27-105efe437a95.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "343a8bf4a04afce066042221faecd6ceaab45cfc",
+   "size": 27237,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/343a8bf4a04afce066042221faecd6ceaab45cfc"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_2afffeed-c799-40ea-8120-c57ac58eac1b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e81aab05bf9808de64f623266cf96b18baa01b34",
+   "size": 30500,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e81aab05bf9808de64f623266cf96b18baa01b34"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_2f68c793-eb12-496d-83d9-81acf15e29e0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "93a997490ce59258427a3b7b54b651c69085f421",
+   "size": 35263,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/93a997490ce59258427a3b7b54b651c69085f421"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_377e1a92-aab0-4d14-bdd4-128730d10202.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b64c28b60787a55e4371e3f8e013ccd4f11273c3",
+   "size": 34699,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b64c28b60787a55e4371e3f8e013ccd4f11273c3"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_378cdae7-08e2-4975-9265-fa9f2e1e952b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9e050e37e6f0e219bd11969283b2471d58e3ef91",
+   "size": 31907,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9e050e37e6f0e219bd11969283b2471d58e3ef91"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_39d147c5-63d7-443b-8534-f71562660d29.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f6b1258434e24821f5d2d62abddae8ab5e6d3963",
+   "size": 36012,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f6b1258434e24821f5d2d62abddae8ab5e6d3963"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_41c7a6fe-998c-4e04-9f0b-6bf019b67f2d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7e0ebb9acd44281e26eb3c1ff8c676f65ac08087",
+   "size": 41068,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7e0ebb9acd44281e26eb3c1ff8c676f65ac08087"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_445fb4dd-fca7-47e7-b1e8-b7d21abe4d04.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e57fe44e21cb285f45a618b411b14682609ec25c",
+   "size": 44118,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e57fe44e21cb285f45a618b411b14682609ec25c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_4a0f953e-7ca8-4596-88e2-04dc7d4f079d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5578c54e7fdbffc5dc5712410cd113f09bb7137b",
+   "size": 33900,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5578c54e7fdbffc5dc5712410cd113f09bb7137b"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_5078cc89-58aa-4fc4-9b69-cb5d649ebf0c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e2a35256427fbaff12f6739c5546a98bc10cae58",
+   "size": 22211,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e2a35256427fbaff12f6739c5546a98bc10cae58"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_50efdd9c-2f1f-43cb-98bf-be6213403865.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3c07d5d00a247649295eb930d23096ff431b8b5a",
+   "size": 26252,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3c07d5d00a247649295eb930d23096ff431b8b5a"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_51c0835b-4435-4a6a-aa1e-61b39dd57029.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6bbf417de581d1f64587a72cba9796556f729c50",
+   "size": 26494,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6bbf417de581d1f64587a72cba9796556f729c50"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_5ddca2a6-0c3e-43d6-919b-dbd8478a0144.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "50ef3a9bc62b3d195026812324b10dd72245ced9",
+   "size": 41669,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/50ef3a9bc62b3d195026812324b10dd72245ced9"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_64017ab1-4dc1-4b2b-bc5a-61bb689b9e35.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "34f01d8a1f8f55f4c44cabcd76c4099d929e6ecd",
+   "size": 24198,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/34f01d8a1f8f55f4c44cabcd76c4099d929e6ecd"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_673596d0-0159-4124-a9e5-0a2c6d38f734.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d9e829d4cf1b3d0d5c29d3ab4257605a3d8a6a37",
+   "size": 28939,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d9e829d4cf1b3d0d5c29d3ab4257605a3d8a6a37"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_67c2d684-2c97-49e4-b48d-44f5d46cfe45.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "eaf2aa98813600cb1fca90883d4935ab39f06266",
+   "size": 29937,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/eaf2aa98813600cb1fca90883d4935ab39f06266"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_6982a310-53a9-40b7-9615-8a232037f4b1.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "39e9983f1577a0db1585ac9a912aa78e4f026f3b",
+   "size": 34221,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/39e9983f1577a0db1585ac9a912aa78e4f026f3b"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_6aa9725c-efc2-42e5-bde2-5bc371acc6c5.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "37e6f383f7d26f3249ff84918a3a8d653ec4eacf",
+   "size": 25456,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/37e6f383f7d26f3249ff84918a3a8d653ec4eacf"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_6c0c4668-0681-4ba1-aacb-b437522e2338.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "bb5b7298fa8fde4e07c3a48d9ed23480d5755f79",
+   "size": 44136,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/bb5b7298fa8fde4e07c3a48d9ed23480d5755f79"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_7ca424ff-9793-4505-a941-118738a6a01d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "34d3ade51c5ecfb5c6571b6bda2b359ed2a2f475",
+   "size": 31194,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/34d3ade51c5ecfb5c6571b6bda2b359ed2a2f475"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_82f8a0c3-de24-408b-a329-9a5be781746f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "70b32b98368ed255065effa8942fc4de37fe9b04",
+   "size": 27406,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/70b32b98368ed255065effa8942fc4de37fe9b04"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_881dcd41-966f-41d2-804f-cb430837a233.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a93ce1a3cb95db3c20abf103b626d1e07b9343dd",
+   "size": 45507,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a93ce1a3cb95db3c20abf103b626d1e07b9343dd"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_88655ae3-4730-4830-89d6-c6775b37c78f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d658e6c832fbd70d61b789a4a2881f4de8451dc6",
+   "size": 25805,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d658e6c832fbd70d61b789a4a2881f4de8451dc6"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_8c2f34d1-1fa1-41df-88a9-d57ed7dcb085.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5c5529dc0aff3fd487a185f43afa7384ba7c3e58",
+   "size": 28314,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5c5529dc0aff3fd487a185f43afa7384ba7c3e58"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_8f1abb26-544d-4c44-b741-1acc2e114d66.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "38547b97ec14732b5eb67048ced69ddde8e1e9d7",
+   "size": 29013,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/38547b97ec14732b5eb67048ced69ddde8e1e9d7"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_8f3e71f2-1eb3-452f-90db-44af5f6bbb8f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a65574bff55f712d86fc24a5b9eec4a944f19ddd",
+   "size": 29972,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a65574bff55f712d86fc24a5b9eec4a944f19ddd"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_93517ff6-49f3-4bc4-943a-4c03f9a57a5d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3120a4085379eb84fdb5752889d4718328d7555f",
+   "size": 31144,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3120a4085379eb84fdb5752889d4718328d7555f"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_95910bd5-196f-455d-8198-0114aa5f74eb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d8160434a670f0c2c61e5c0b65f55536750f1c47",
+   "size": 23362,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d8160434a670f0c2c61e5c0b65f55536750f1c47"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_98cb289f-000d-437f-898f-0aa6286b302e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fd892cdc02113858bae82313537a18adc335c989",
+   "size": 34916,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/fd892cdc02113858bae82313537a18adc335c989"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_9b7f0019-9e0c-4612-8fc7-8bcf8140ffe6.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0f797097aea3d7bf09342fb5e408ba5ac0cb87d8",
+   "size": 23764,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/0f797097aea3d7bf09342fb5e408ba5ac0cb87d8"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_a1b7c307-2d9a-4e29-bb88-6250d666725f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "daa620c1d3190fcd4a2f4cf18f535b12cbee6096",
+   "size": 30898,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/daa620c1d3190fcd4a2f4cf18f535b12cbee6096"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_a34cf308-9ed5-4ab4-b13d-874816a3bc0f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2fb6c66c06937cabbc12cbfccbdf890fe1468d61",
+   "size": 29235,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2fb6c66c06937cabbc12cbfccbdf890fe1468d61"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_a43d3d4d-a4e2-4b78-8911-ebf25b3b09fb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3dad758661944adb9a7b8fc789afa450b110122d",
+   "size": 42323,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3dad758661944adb9a7b8fc789afa450b110122d"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_a5b91e4c-6535-4457-9d1c-4c811547a9a7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1eee66c90ae1bc19187e9f8894ca7d845c4f79b3",
+   "size": 31423,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1eee66c90ae1bc19187e9f8894ca7d845c4f79b3"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_a65a4631-b2a2-4977-a5af-3fa2ccde8b6c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "bbb0fb88057e08f7ee04fd2a53d84570b2321ddc",
+   "size": 41715,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/bbb0fb88057e08f7ee04fd2a53d84570b2321ddc"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_ab404175-2271-4e38-9555-e90f66e2d512.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "90ed83af75be53264847c6bc94dee3ad5c5751a6",
+   "size": 29809,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/90ed83af75be53264847c6bc94dee3ad5c5751a6"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_b2fbeef9-4134-462d-82c3-c1a191cfc747.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "55061927185b29f042c2e0a2104a71d5a277ef7c",
+   "size": 32365,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/55061927185b29f042c2e0a2104a71d5a277ef7c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_b389ee28-72c8-4c62-a06e-07814c1928a1.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e4a97c0aa943350b316a7ede57ef1308f3ad613a",
+   "size": 28727,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e4a97c0aa943350b316a7ede57ef1308f3ad613a"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_b664cc9d-aea7-4c65-99fc-4de0da02b0f7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "24f1c7c1e62dd08709b1772f11744305d47c58e1",
+   "size": 18872,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/24f1c7c1e62dd08709b1772f11744305d47c58e1"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_ba7b6abe-4857-442c-a293-4719fe69cdec.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fa075d81343bc30da1261e932f55fb837ea73b01",
+   "size": 29781,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/fa075d81343bc30da1261e932f55fb837ea73b01"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_c1cf5f68-9619-4a8c-b00d-eb492d199b27.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "54b7342f7ca967c1d4e1daf55e288edb45af91a2",
+   "size": 28525,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/54b7342f7ca967c1d4e1daf55e288edb45af91a2"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_c31ad964-0346-4541-9943-a3862d3e80d4.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6f774b249a33eab463acc15ca4d2490ddb2a7fe9",
+   "size": 26422,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6f774b249a33eab463acc15ca4d2490ddb2a7fe9"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_c32ffe96-af2d-40cf-a3d2-148da51c9581.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "926bed082a8782fd0408903af0e6c70473a7fb96",
+   "size": 33016,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/926bed082a8782fd0408903af0e6c70473a7fb96"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_c486d8b2-c99d-4096-913f-944cf36ed629.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "27f96875b8fef11c3af7a7716450f26f3f3c41f4",
+   "size": 23116,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/27f96875b8fef11c3af7a7716450f26f3f3c41f4"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_c4aa12b2-4591-4957-8a22-0b3ce0054857.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b7c35f9f7c6d0d98378f6e167cd28bc349ffd345",
+   "size": 26251,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b7c35f9f7c6d0d98378f6e167cd28bc349ffd345"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_cca1bc20-47f4-4b45-9ad6-7fb43ed64dbc.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2e691f89ca9e58dcd478cbdb02e0fba3d8db7fd6",
+   "size": 32019,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2e691f89ca9e58dcd478cbdb02e0fba3d8db7fd6"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_cf2f88a1-8afd-4564-b6a5-1bb9266c24c0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0b0ca1810ce8ba1a73f9845d078a18694d982052",
+   "size": 24390,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/0b0ca1810ce8ba1a73f9845d078a18694d982052"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_cf7e4d95-51ae-49f6-9eec-6016011b061e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "17e2ddad5fa024209463101b7b1f6b57e8ddcfa5",
+   "size": 25973,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/17e2ddad5fa024209463101b7b1f6b57e8ddcfa5"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_d17cfcde-0b95-4292-bd01-d7185ad5b09a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5cb12618b0753e0ab6eb4f199ecde33fd292c8ab",
+   "size": 31711,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5cb12618b0753e0ab6eb4f199ecde33fd292c8ab"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_d1dfefae-abe0-4c67-8a05-1614c08bd59e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "13c6f8e49d78e2a086a8e8f2e44b50598eee91be",
+   "size": 32582,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/13c6f8e49d78e2a086a8e8f2e44b50598eee91be"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_d29f2dde-631b-41a8-82cf-d22936f575f1.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "70d44e1d81a6eb59462522b4c18d7c55d662d1c8",
+   "size": 24599,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/70d44e1d81a6eb59462522b4c18d7c55d662d1c8"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_d4dbb0f5-643d-490d-8c11-3d7a1efea10f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "92e723cfd6ce8dd3c1df4751f1c11a002e5f5b90",
+   "size": 30202,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/92e723cfd6ce8dd3c1df4751f1c11a002e5f5b90"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_d5c9bc0f-003d-46d7-a74c-fb0268f9caaf.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4a0fa0fffd38c9d05bbe9259f6eaee8c6431f840",
+   "size": 30871,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4a0fa0fffd38c9d05bbe9259f6eaee8c6431f840"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_dccb3634-066d-4319-bfd4-44422d58508e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e495df87904e30d8ddb0d5d7fc97f34a5e7a9c52",
+   "size": 36120,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e495df87904e30d8ddb0d5d7fc97f34a5e7a9c52"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_e817a3bc-a164-42e6-849f-417eed64699d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b83e3afd3b5ba32489a61b431f6913f4fa697416",
+   "size": 33437,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b83e3afd3b5ba32489a61b431f6913f4fa697416"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_f059c9b9-6405-4eb4-acd1-2a23a76ee230.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "293eaa15c056dddeafd8d797951632567cb1ea5e",
+   "size": 33049,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/293eaa15c056dddeafd8d797951632567cb1ea5e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_f34be4a4-bf8c-4104-89e1-51f767fabc8f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d7ab38f29f6f4147876d96193e65988f9b0ebdd9",
+   "size": 31736,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d7ab38f29f6f4147876d96193e65988f9b0ebdd9"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_f352df5e-072e-47b2-841e-6192d02d1f65.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "379cd85f4f3c5a0eeb410fc55ab5a9572071340b",
+   "size": 33461,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/379cd85f4f3c5a0eeb410fc55ab5a9572071340b"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_f6c82e77-797e-43e2-8898-ae7d93012f55.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6efb173fc8180b7fe47825a33d2e8dc6b35939fd",
+   "size": 27842,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6efb173fc8180b7fe47825a33d2e8dc6b35939fd"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_f7219370-4bf2-4c7a-b156-be4e8c4e0f68.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "72fc7e27d77c95e18a2979f7504b3293d28b235d",
+   "size": 35279,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/72fc7e27d77c95e18a2979f7504b3293d28b235d"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_deepseek-reasoner_feb0e16b-c8d3-4389-a939-283ca669453d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "27d266e5296a662de1d01705bd62d78673ab6da4",
+   "size": 38247,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/27d266e5296a662de1d01705bd62d78673ab6da4"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_0305090b-d2f4-465b-a307-2cc33c875d8d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "909de9fceda1edb99cbf04b88c56c7876b20e431",
+   "size": 47003,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/909de9fceda1edb99cbf04b88c56c7876b20e431"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_03d77067-3cad-4355-9a89-e1a2a834c8a2.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "471c242908abf731d9edfe340ed59b04e2a90913",
+   "size": 19135,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/471c242908abf731d9edfe340ed59b04e2a90913"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_07b403a9-a60f-48c9-925c-1df59b767f88.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a52d981ab0d035d9bcc775a7fc17c1e84a17da7e",
+   "size": 17786,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a52d981ab0d035d9bcc775a7fc17c1e84a17da7e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_186596c6-6a53-4fcc-8127-18de990815fa.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a2b249eab34abe904588b0f318a4debbd1662476",
+   "size": 36663,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a2b249eab34abe904588b0f318a4debbd1662476"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_1899e7c7-a0d1-4c22-af94-8632c30ca1cb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8fac5d262a8487a7dbf8967e9b73aec272c9e5a6",
+   "size": 40797,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8fac5d262a8487a7dbf8967e9b73aec272c9e5a6"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_1be21e96-5603-41d8-a3eb-3144cb0c6f1f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a70731eff00bf8559a959e707720425e728ae53f",
+   "size": 32059,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a70731eff00bf8559a959e707720425e728ae53f"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_2359221e-80ce-4360-a6e5-eb20768dea9e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7b4565be25720986ac4f47b0a728e69524b6382b",
+   "size": 45890,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7b4565be25720986ac4f47b0a728e69524b6382b"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_2a2c51c6-01b1-45a1-a8a1-1f32a5763e64.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f3a2c2c81c1b75b1bd8697fd387fdb3cd29ca58d",
+   "size": 35567,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f3a2c2c81c1b75b1bd8697fd387fdb3cd29ca58d"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_2c4479c2-8301-4800-b4fc-03f5fb706a04.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "54fce2a48efaabe3623bbca1b99e028c67d0ee50",
+   "size": 31778,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/54fce2a48efaabe3623bbca1b99e028c67d0ee50"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_317e09df-ed94-4802-8723-7ef6de57c4c6.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c45054c2ae8045ca7679c12d7b629b77ae09bd6c",
+   "size": 31426,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/c45054c2ae8045ca7679c12d7b629b77ae09bd6c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_32f2842d-6890-4cd0-b6fa-eb1abaa6260c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "aef8676e0ac33bbe49c740927d630bd6ea67bf5a",
+   "size": 37395,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/aef8676e0ac33bbe49c740927d630bd6ea67bf5a"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_34d5e7b9-ec13-4a27-8fed-57d10c158e18.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2d5e400cb3882ac1ecf44ada094d46ae313fd86a",
+   "size": 34362,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2d5e400cb3882ac1ecf44ada094d46ae313fd86a"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_352793d2-0b13-4ffc-9122-8989e93b2d7e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1536e2b45e249440ef44a82ffae4103139873fb3",
+   "size": 37986,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1536e2b45e249440ef44a82ffae4103139873fb3"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_38d24360-1b00-40ef-a7b1-fe3ffdd0c626.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8e2a68220fdd8633fb68a01a4580fbba6f85de84",
+   "size": 27429,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8e2a68220fdd8633fb68a01a4580fbba6f85de84"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_39f0c617-0303-4863-bf61-ce8a942fd7ef.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "355f1f4e7f6595f89c91f5e529f2edd47a7bacee",
+   "size": 42659,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/355f1f4e7f6595f89c91f5e529f2edd47a7bacee"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_3dce6d78-f4ce-4bbf-9c71-aa725752b501.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1f0648312fc75d703bf178f36f866f9912e9f779",
+   "size": 28081,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1f0648312fc75d703bf178f36f866f9912e9f779"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_40078a6c-3ee3-4429-b9a7-a01ec50312ef.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e3c8f108ae9a70fa86f381c202a0be5ecf2229e6",
+   "size": 29672,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e3c8f108ae9a70fa86f381c202a0be5ecf2229e6"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_42296a40-4e75-4b10-ac78-bda6e9cf2224.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4afcfdd4e4114b8a317b17c158d6466b49023b69",
+   "size": 35631,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4afcfdd4e4114b8a317b17c158d6466b49023b69"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_4269dfbc-8cb1-44e4-b4ef-893325bfd24e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d982d26c4059d048ec1025da5d4410aa3bdfafaa",
+   "size": 33419,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d982d26c4059d048ec1025da5d4410aa3bdfafaa"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_4437db52-c1dd-4c93-be86-ba9b22738b08.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c304e32c01dae58574f24752b56b535547d58014",
+   "size": 79963,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/c304e32c01dae58574f24752b56b535547d58014"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_457d562a-822a-4f08-aee9-a83d86054a12.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5440c90daf6963447ef7e159b8645cc2d9b14fe2",
+   "size": 40884,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5440c90daf6963447ef7e159b8645cc2d9b14fe2"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_464c0531-e16e-41db-83da-ed390aa9988e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "195d143575817c099eb786b4f31e1eda157251f7",
+   "size": 20302,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/195d143575817c099eb786b4f31e1eda157251f7"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_4a726968-988e-4b66-a63f-cada1c0d2061.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "63ae06f0e4edb094b7fcfbdaf98d08d1477602e9",
+   "size": 26411,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/63ae06f0e4edb094b7fcfbdaf98d08d1477602e9"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_4bbd7a35-8ad7-4ddc-a948-cb0b776b48cb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "861cc02fc640a5ca0fc42a6d209fb5b33acfb30d",
+   "size": 52270,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/861cc02fc640a5ca0fc42a6d209fb5b33acfb30d"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_516c89e9-bf46-4242-8d2a-119d0e25af3a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "562b3287a345aac5dd3b8e062bdd525c6558be21",
+   "size": 31397,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/562b3287a345aac5dd3b8e062bdd525c6558be21"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_64228a30-91f4-492b-898e-578b698a5dbc.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3c9246188aeec1b75ce78a19d2e1de7209698119",
+   "size": 35749,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3c9246188aeec1b75ce78a19d2e1de7209698119"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_660458b4-d90b-4b15-ad3b-8e399659cb38.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "bc59a33619bb0fed90a0f62e6db2e0d2476294c1",
+   "size": 34111,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/bc59a33619bb0fed90a0f62e6db2e0d2476294c1"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_67fa12fe-8031-4393-8c41-4755d4a40a73.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7e3878beddcad4e4519d87dbba71c8017f545665",
+   "size": 21527,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7e3878beddcad4e4519d87dbba71c8017f545665"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_6f5b124b-aebc-41dd-b05d-dba61ca76ff7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c13401baa24ad2532741e5e972c927a30159a900",
+   "size": 21459,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/c13401baa24ad2532741e5e972c927a30159a900"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_7069982c-6946-4ad6-9a7b-2a62371a6e60.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "430fb6b0b152ea4a04152a06d5cc433987906ed7",
+   "size": 42461,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/430fb6b0b152ea4a04152a06d5cc433987906ed7"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_76889fc3-a099-4337-bcc2-1d0af11f6a1c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "07edfe8a10c9ec02f8100a92cb681f95bcf7e8f8",
+   "size": 29428,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/07edfe8a10c9ec02f8100a92cb681f95bcf7e8f8"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_7d4ae738-45aa-4745-8cf1-f2c81c08a77c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "665405c0b5392303d0bf1e1c8747d0a78c26a613",
+   "size": 42715,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/665405c0b5392303d0bf1e1c8747d0a78c26a613"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_81e16023-c0f6-4720-a527-acebcf029a67.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4e93205f0650c8eefb02d17fb45b9bd5e3e10f02",
+   "size": 27240,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4e93205f0650c8eefb02d17fb45b9bd5e3e10f02"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_8368f404-a415-45fd-afbd-d8343ac35543.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "92bec8cfb07855a922a3cb577bf616dd5b210941",
+   "size": 31389,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/92bec8cfb07855a922a3cb577bf616dd5b210941"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_85f6a629-a90b-4e99-b42d-3b1d24fde1f5.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "88eed59157c495c8effa2aefa1ecf3372c023150",
+   "size": 19075,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/88eed59157c495c8effa2aefa1ecf3372c023150"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_8f1e1d94-0505-4724-a3bf-96626ad5605c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9b1cac0bc88c38709f71edd551820a2e033e2d04",
+   "size": 18692,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9b1cac0bc88c38709f71edd551820a2e033e2d04"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_90e8d61b-9d31-4a75-b88e-e0266ae78923.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "623502f31f49688f5b27a6617ce787c1b862bf77",
+   "size": 31627,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/623502f31f49688f5b27a6617ce787c1b862bf77"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_940764ae-f374-404d-a81b-e9dc95f05073.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "41b2315e8731ada635b1ca059fbfec6f97d1a717",
+   "size": 46805,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/41b2315e8731ada635b1ca059fbfec6f97d1a717"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_97d825f7-334b-44e2-80d4-f6258cbe7a9d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "399651778461d34f966e65f2d7f287218a198ddc",
+   "size": 27970,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/399651778461d34f966e65f2d7f287218a198ddc"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_9d204c75-8c50-4618-8391-59ec92b9b818.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "64a1ef789490eaa458514c4744937a5716859b27",
+   "size": 27843,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/64a1ef789490eaa458514c4744937a5716859b27"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_9f37c7e8-8f89-4d58-acd1-ef6c62efe1b0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "449d8211f2c7cd9a58b14c9ab01697c70169b452",
+   "size": 46631,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/449d8211f2c7cd9a58b14c9ab01697c70169b452"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_a08b9aee-7fea-4b54-8f6a-4a44df79c5cf.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9c4db9e2d75e2ecf1655a6eb47a84cf96b740124",
+   "size": 19484,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9c4db9e2d75e2ecf1655a6eb47a84cf96b740124"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_aa54a462-9588-4ffc-ae1a-ef957d5ece32.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7935526b95bc3b10ae0dd39eb1105a526de53c42",
+   "size": 39647,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7935526b95bc3b10ae0dd39eb1105a526de53c42"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_aa6c2150-ebb5-4067-850b-a6b4c5082436.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7d9989a1d4ca63a9ca89cfdecf8fb578c23cf38c",
+   "size": 30166,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7d9989a1d4ca63a9ca89cfdecf8fb578c23cf38c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_abf9b77b-8e65-4a67-ac24-04ebbadc1f74.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4f1a4f0d41f1e537520936891ea5e71072f519d7",
+   "size": 26456,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4f1a4f0d41f1e537520936891ea5e71072f519d7"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_ad0870e3-7335-4406-ae2e-970c630d2409.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2d7db3e41b0d9b608083de03b6c01bd4ae0832f0",
+   "size": 45645,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2d7db3e41b0d9b608083de03b6c01bd4ae0832f0"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_ad738d57-8a05-4680-84f6-0f12ff2d70ab.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "315e8bbac45b1a7325ca92ec89af9ad748f5dd3d",
+   "size": 46258,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/315e8bbac45b1a7325ca92ec89af9ad748f5dd3d"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_b32cbdf9-073b-471b-8358-bf4e53becf9b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1e917c28f7d1f2aaa038607f5c221c507f976be5",
+   "size": 28784,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1e917c28f7d1f2aaa038607f5c221c507f976be5"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_b41f5705-6a97-4e0c-b83b-e2b6fd8c7c92.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8f5d9fc7c34d6bcb47ebef7e750419fb422d15d1",
+   "size": 19527,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8f5d9fc7c34d6bcb47ebef7e750419fb422d15d1"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_b71adf97-298f-4380-a9bb-bb79e5c52427.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3933cff319955df964e1da09ccd3357d7bfcf004",
+   "size": 44865,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3933cff319955df964e1da09ccd3357d7bfcf004"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_bc371731-b11d-4331-b33f-b7d558fe0544.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "33d0c4864c2949b22242569e6884992a7fc48aaa",
+   "size": 30504,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/33d0c4864c2949b22242569e6884992a7fc48aaa"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_be5918e7-9ad3-408c-b2e8-71be98b57f3b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b088ce78e445abc014680a5993ef3e70cf0985b7",
+   "size": 26743,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b088ce78e445abc014680a5993ef3e70cf0985b7"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_c2e88815-a914-4278-8d57-42c2e4a3328e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a32546ecfb29385bb7e97526308ee06fe96768e6",
+   "size": 31873,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a32546ecfb29385bb7e97526308ee06fe96768e6"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_c3f97d05-ff2a-4e40-9911-88322d9ef6ee.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f8cb9447c8f648189a25057fdc941987c5d56109",
+   "size": 33111,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f8cb9447c8f648189a25057fdc941987c5d56109"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_ca9d8b7c-e0f9-4fdc-9032-78687b0442fc.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3b2696be1ef3ed7cc86a94e5e9b68cc3b3fed72a",
+   "size": 36394,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3b2696be1ef3ed7cc86a94e5e9b68cc3b3fed72a"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_ce9eab71-85e5-48f7-aafc-c08e270125d5.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "afe62b37c9b681ad4c07dc7980189fcc54dfbbdc",
+   "size": 21418,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/afe62b37c9b681ad4c07dc7980189fcc54dfbbdc"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_d5114820-efd6-4f17-9da7-b7334ea8a933.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5e4b728e7a63e051f539556cdb2fcc049ffd0929",
+   "size": 26185,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5e4b728e7a63e051f539556cdb2fcc049ffd0929"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_d56c11a2-64cd-443a-999c-d9680f3dfa47.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e51d27b5cd6d382409d1be3f892ba039a4e2dfc8",
+   "size": 33158,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e51d27b5cd6d382409d1be3f892ba039a4e2dfc8"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_d7f817cf-1ef2-4b9c-9e11-80951ccbbaa8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "eae2e44588e3a3fdd42b397a9f91c313be457326",
+   "size": 55668,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/eae2e44588e3a3fdd42b397a9f91c313be457326"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_e20016ce-c4e3-4a3b-82a8-6591490cd372.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f8700569fee570921e4aa5ad27b15ab6fd233ef7",
+   "size": 31870,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f8700569fee570921e4aa5ad27b15ab6fd233ef7"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_e347a1cc-cade-4c2e-88c8-5965a1561a95.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "327999d5d3df3a2bf306881eea8b4840a662cb08",
+   "size": 38684,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/327999d5d3df3a2bf306881eea8b4840a662cb08"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_e3d3f6b7-9ee9-4330-b66e-5421b8342d69.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4251128b48ef3828c67424b2870f1b313c88626c",
+   "size": 27500,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4251128b48ef3828c67424b2870f1b313c88626c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_e566abfa-16b2-464c-b35b-6acdbbc0d161.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1a36ae5f9293891ec10a02c0b6b6c49421c20b6e",
+   "size": 17633,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1a36ae5f9293891ec10a02c0b6b6c49421c20b6e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_e5c652d0-f6ab-4d40-8745-37e5a201a1fe.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9c9924b3c25ccc01cceb033b7a49bed2a8a4b4ba",
+   "size": 36332,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9c9924b3c25ccc01cceb033b7a49bed2a8a4b4ba"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_e74a0ace-5c28-4131-983e-4f4baac562eb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "673ec92ac3effd541e143167362131abe8f5a33e",
+   "size": 33858,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/673ec92ac3effd541e143167362131abe8f5a33e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_e77947ce-dd8a-43c3-b15c-877e26a72c71.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "722f545509a7ecd042237b50e36bbcef17df75cd",
+   "size": 54673,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/722f545509a7ecd042237b50e36bbcef17df75cd"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_f2e91809-da46-4cfd-bf75-9115f5fe73e3.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1c6c2f1e1823046740f4b615b9b54324874b8d5d",
+   "size": 30749,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1c6c2f1e1823046740f4b615b9b54324874b8d5d"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_f956a4b7-2a4a-4928-b6eb-7560bc0e9641.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cb35ee42189568af41ab9f2afa74f90f47348bda",
+   "size": 27087,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/cb35ee42189568af41ab9f2afa74f90f47348bda"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_fa3b21b7-b936-45b7-bc6e-e625511ed8a7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "547f2b8b1b6bf21563d416735a6312e810179e8b",
+   "size": 27139,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/547f2b8b1b6bf21563d416735a6312e810179e8b"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_gpt-5_ff12b481-c2de-464c-ab1b-8b44a2d1caf9.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3a5f1c8077412ab5d78b839c96dd4ca79648a6bf",
+   "size": 23896,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3a5f1c8077412ab5d78b839c96dd4ca79648a6bf"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_0250f877-f44b-4ceb-990a-f284cc9c6433.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1e1f20e1813c5e13c953d92ca445cb94ba2f4acc",
+   "size": 15761,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1e1f20e1813c5e13c953d92ca445cb94ba2f4acc"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_05c584d5-4253-4c8b-af19-0db2076deda4.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "14b222aa10841cf98f2fc092fdcab60964213288",
+   "size": 33631,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/14b222aa10841cf98f2fc092fdcab60964213288"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_0b7e339f-de96-43b5-b829-20aa48863c22.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "64d7c2e8d42497267980d6dc6fdb672491fb17db",
+   "size": 41127,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/64d7c2e8d42497267980d6dc6fdb672491fb17db"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_0c185067-6414-4f75-87fb-bac05bc133a0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6beb76daafcabdb6121a01e683e113425f988835",
+   "size": 24570,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6beb76daafcabdb6121a01e683e113425f988835"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_0c3a3214-5d15-4c2e-b69d-d26a5a6b5565.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2f4bafdd07880af9c405e374ca893c214be0d546",
+   "size": 39418,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2f4bafdd07880af9c405e374ca893c214be0d546"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_111fbaee-542b-4a2b-a6d9-c5b9473dbf96.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6064cc9a3eb5b44b986ba34eb80a3372a7a25774",
+   "size": 34832,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6064cc9a3eb5b44b986ba34eb80a3372a7a25774"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_1305c6fb-20e5-44a1-aee6-4c1e306845c2.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8de608dc8e5220a91eeca06a0569914c84e2502b",
+   "size": 31900,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8de608dc8e5220a91eeca06a0569914c84e2502b"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_16366e51-7286-4f86-9cf7-f83f6fc2e21e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d3dc2ab5439f173b2186245c2a334546dcbc04aa",
+   "size": 18465,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d3dc2ab5439f173b2186245c2a334546dcbc04aa"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_1675af00-7b0c-47f1-96c1-b633be102654.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "08fed46946fdb4e85c2a2814b82a9e8e3939821b",
+   "size": 40731,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/08fed46946fdb4e85c2a2814b82a9e8e3939821b"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_1be915d3-902e-4ae7-8abe-1ec4ae53493a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7fb84dbb0e53048d9c0796db2ef7638e3d267232",
+   "size": 32895,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7fb84dbb0e53048d9c0796db2ef7638e3d267232"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_1e8fb425-e44a-49b7-9984-76c8440f69b9.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a015084803b191246eb68b1b4eaab23ab268302b",
+   "size": 31691,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a015084803b191246eb68b1b4eaab23ab268302b"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_303997d3-6427-41a9-8ef8-33b0093e6628.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f78f04832a23ff5156961ac11490abc373e17edf",
+   "size": 18471,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f78f04832a23ff5156961ac11490abc373e17edf"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_346dcc8e-87b9-4fb3-9f20-bd6b35a1bf5b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "bb9169e92c601bfb74ae8939bc0e3c130f44d2f9",
+   "size": 37613,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/bb9169e92c601bfb74ae8939bc0e3c130f44d2f9"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_35567c84-0cdf-4c60-92d8-a89959e9c312.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fd3f1097c8bfe8752cfa406787d147a3acc91b9e",
+   "size": 18696,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/fd3f1097c8bfe8752cfa406787d147a3acc91b9e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_389d00a9-c5a9-415d-a262-90274970a52f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "81b9ce989e21b28f08af69ff66052ec3dca7ccb9",
+   "size": 29440,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/81b9ce989e21b28f08af69ff66052ec3dca7ccb9"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_39e43b1f-22a2-46ea-ac04-f0cafa709ae0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6cd954a7b0cad6aa38618385dcda9011af710108",
+   "size": 27063,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6cd954a7b0cad6aa38618385dcda9011af710108"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_3ac9c722-3acf-45eb-95ac-ba9f83665df7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2e85154b88e2cebdf7d7e888a7280e69bc59c6cd",
+   "size": 28653,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2e85154b88e2cebdf7d7e888a7280e69bc59c6cd"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_3b2011e4-a57d-497f-aa94-e0adeed633f8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a095126717e6ec261a7ad1a229240b20827739bb",
+   "size": 69138,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a095126717e6ec261a7ad1a229240b20827739bb"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_3d878ce6-3893-4849-ac5d-7e2d8fad1bcb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8d0070260b8813687a01c768e59018a238c68c2b",
+   "size": 35288,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8d0070260b8813687a01c768e59018a238c68c2b"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_3deee749-81bc-4bd8-a262-a0aa32faeff0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "fa9578da0e1475a67a8f9f8e797b2b9bcd4fd2ff",
+   "size": 38091,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/fa9578da0e1475a67a8f9f8e797b2b9bcd4fd2ff"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_40e0fc17-a7e8-4866-bb17-9ba7fc4762e7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "148679fda70d9ef228bc397372f391e3f8bf00fe",
+   "size": 36016,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/148679fda70d9ef228bc397372f391e3f8bf00fe"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_452b70fd-96c2-40dd-b43b-6f79ea88d6c5.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "90003797a764d4fae57a31bfe648caac05a45b08",
+   "size": 27867,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/90003797a764d4fae57a31bfe648caac05a45b08"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_45d348e4-fb24-42fd-b40f-0d6cfe88c385.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "96baf366e8697dd25aa1f5f5cce7d29c3f94e7d1",
+   "size": 28364,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/96baf366e8697dd25aa1f5f5cce7d29c3f94e7d1"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_4dc0a00d-fadc-4971-a283-9d11693f8301.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f2308f4a7d4fa2c7103fa1fbfb2a27552a42e1ab",
+   "size": 26586,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f2308f4a7d4fa2c7103fa1fbfb2a27552a42e1ab"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_510baf07-bb73-4384-b943-e13542ce63ac.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c1cac33c3453aab6216961b092e309321da8611d",
+   "size": 22717,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/c1cac33c3453aab6216961b092e309321da8611d"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_53920979-bfa9-4f19-b0ca-1714c23c8a50.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b30a48aa96b43271957d670923b86ef5b5db1c42",
+   "size": 33559,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b30a48aa96b43271957d670923b86ef5b5db1c42"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_55d297e7-6a27-4ac4-9525-d831eae331ad.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "73c9719b667e52738072c4eff7e6d9ca8e4c711f",
+   "size": 28757,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/73c9719b667e52738072c4eff7e6d9ca8e4c711f"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_5a089ec1-3d1d-4328-a481-944f36c3df48.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a50f5be952c3548caed2ece242fc1e174409cf42",
+   "size": 36004,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a50f5be952c3548caed2ece242fc1e174409cf42"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_5f143edb-87c9-43d8-a68d-29610bfb8d10.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e289a0c077fdececc993c3f7a5c42895cd98cf3a",
+   "size": 31037,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e289a0c077fdececc993c3f7a5c42895cd98cf3a"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_5f199f2b-4a82-4779-89cb-b33432e6e3db.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "431c0fa6d884d6a9be6d129f7e86219e76af0bf6",
+   "size": 30093,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/431c0fa6d884d6a9be6d129f7e86219e76af0bf6"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_5ff394bd-6ba0-4196-9224-58fd945a4ef0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7e5e469ce9c989c1afa9d59c5a2b541500d57069",
+   "size": 24321,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7e5e469ce9c989c1afa9d59c5a2b541500d57069"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_61aee1e4-2504-42be-ab80-359ed1eec282.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9df7d2be8529768d553f09c75360996cd9832a7e",
+   "size": 31990,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9df7d2be8529768d553f09c75360996cd9832a7e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_63c2426a-596b-4937-af4c-64a735d9bc64.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b3f696131c317456bf93b31c4354039b249cb00e",
+   "size": 32747,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b3f696131c317456bf93b31c4354039b249cb00e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_67c2fb6d-396a-4599-94d6-d3f8dc6f453b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a3e9405b8fef5ef6efec77dd2f9f61aac4829997",
+   "size": 29790,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a3e9405b8fef5ef6efec77dd2f9f61aac4829997"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_6eeb35b5-4087-42b6-8429-8784caea13b4.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "68cc14ba7716f8b4ccbc4f89f0de35aa7674fae8",
+   "size": 35808,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/68cc14ba7716f8b4ccbc4f89f0de35aa7674fae8"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_712b14b7-7851-48c7-9be8-84306a4a5d00.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ed3646cfc043a5a1fc284b5b2deb2d4fe439835e",
+   "size": 28809,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ed3646cfc043a5a1fc284b5b2deb2d4fe439835e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_715755ce-1642-46ed-b8cc-aa2ee1234808.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a15daa33f10bd340f49aceb7ca3565da482c9b07",
+   "size": 65013,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a15daa33f10bd340f49aceb7ca3565da482c9b07"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_72adf14a-1010-44dd-b3c0-b59d2cc2e1cd.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5e049d2d06a13ef41b11c60c4478a9b2cb96f01e",
+   "size": 44622,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5e049d2d06a13ef41b11c60c4478a9b2cb96f01e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_7e3748ea-0027-4a61-8691-09dd71b67ecb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4c500c99b3a635da4ec6f55285784cb7c2a295ce",
+   "size": 52607,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4c500c99b3a635da4ec6f55285784cb7c2a295ce"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_836f1050-6ed1-4d2f-9abe-0be47432a751.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2c377d3f9fa0f64d251f97cb6ffa202a04286f60",
+   "size": 24895,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2c377d3f9fa0f64d251f97cb6ffa202a04286f60"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_859a103a-d49a-47cb-8f88-ee56885405d8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3fd796c68cbf6e858f5e13b890661ab25bde5383",
+   "size": 35913,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3fd796c68cbf6e858f5e13b890661ab25bde5383"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_87784ed1-34fa-4147-9263-c7d5396cdd12.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2c892c3ce8b247b1883fdbbd54a558a10d5c3090",
+   "size": 31331,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2c892c3ce8b247b1883fdbbd54a558a10d5c3090"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_8c168e4d-f33e-4b6d-a273-de7bc9615846.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e248a208af6aeeea2ba70451afb49059a5a0d6f8",
+   "size": 25938,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e248a208af6aeeea2ba70451afb49059a5a0d6f8"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_8c59de1a-02c7-45fa-9097-46d675ce5cb0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cf5a8d63653cf9d9568f2bd6fba76b91274e5b93",
+   "size": 23321,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/cf5a8d63653cf9d9568f2bd6fba76b91274e5b93"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_8c94941f-d0ac-49fd-8537-d60e06c2d90e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9b88aa90babb67b11d5466bc512637d1cf7ef26e",
+   "size": 25713,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9b88aa90babb67b11d5466bc512637d1cf7ef26e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_8e826a0f-6d2e-4fab-875a-89641fcc817f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1b4e737ba0a4800507a680fdb7a8c5c963d22e37",
+   "size": 37711,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1b4e737ba0a4800507a680fdb7a8c5c963d22e37"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_926caed8-7b46-4fb7-b4d8-3918a2da3b9d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2bac12c554db0fcdbf4f1b18daab278656f14d48",
+   "size": 26089,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2bac12c554db0fcdbf4f1b18daab278656f14d48"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_94bf7c4a-70e2-4b67-a62a-63301f7efbc3.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1088f5ebecd890e55c9c6c3dce9cacf80f0939f9",
+   "size": 28513,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1088f5ebecd890e55c9c6c3dce9cacf80f0939f9"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_981a4a90-94b1-4990-b327-6388f4e42fee.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4cfe11db037f1b22887ad0bfe61466b78ba3818c",
+   "size": 18213,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4cfe11db037f1b22887ad0bfe61466b78ba3818c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_98ed6a27-4bc6-4805-98ed-97a890a85e3e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3a5a9a6486c1b408a23d2e4212212963e79c0776",
+   "size": 27527,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3a5a9a6486c1b408a23d2e4212212963e79c0776"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_992231b0-98fd-427e-a955-f7d25f5f3a7c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "33f9d3e0c1959774f2a2fa45c33b9ba632da6b0c",
+   "size": 27762,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/33f9d3e0c1959774f2a2fa45c33b9ba632da6b0c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_9c394ce7-95f2-4696-9030-be1bdf0b7e04.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0f6d7de09d7432c6ba7adf8c8ed5ba4a292d434c",
+   "size": 51550,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/0f6d7de09d7432c6ba7adf8c8ed5ba4a292d434c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_a67c0ac8-0f88-4213-8468-de477ed2659f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a54938b3b5ae5a628f59a276e98d1552c83c6c00",
+   "size": 37915,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a54938b3b5ae5a628f59a276e98d1552c83c6c00"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_ab59c075-10dc-4e54-b57c-24b052188c00.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6f248bab58f36b7308051e0aa5791db1eb9705b8",
+   "size": 30274,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6f248bab58f36b7308051e0aa5791db1eb9705b8"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_ac32578e-0150-4198-b4df-f3c2c12c699c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "060b84c40a919b6ba1ce8d7e0d44f6804773ca29",
+   "size": 23431,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/060b84c40a919b6ba1ce8d7e0d44f6804773ca29"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_ae30ba61-2e7a-4b58-9ff9-fc216facadb8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f7b12f2c9a1522c023d85902530e6498afc4f24c",
+   "size": 18350,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f7b12f2c9a1522c023d85902530e6498afc4f24c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_ae5f84b5-a520-4c0d-bc25-d72fc2e490b5.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "af974cbfd55b429984ac6d4d7ce74baed65a20bf",
+   "size": 29317,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/af974cbfd55b429984ac6d4d7ce74baed65a20bf"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_afcb17df-f533-493b-81f7-2d632ab8baed.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0b39822df3b7dd75b8d78321c1e65a11f9082ff8",
+   "size": 23753,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/0b39822df3b7dd75b8d78321c1e65a11f9082ff8"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_b242cd29-6dc8-40dc-bf0c-815e75da0438.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "57e2984120dde20fc3b6292cec7c0871250707b6",
+   "size": 33661,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/57e2984120dde20fc3b6292cec7c0871250707b6"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_b9df7c92-3c73-4513-9e04-2028887c19ca.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1af9ccca68a42b38ee493f607567f7739ac32ed3",
+   "size": 45979,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1af9ccca68a42b38ee493f607567f7739ac32ed3"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_ba51daa3-9da2-410e-a220-56f9df7b874b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4472088d800b1299680c35426039b3e92322946e",
+   "size": 32935,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4472088d800b1299680c35426039b3e92322946e"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_bb92b4fa-3533-4eb8-acd4-35fe8ab518c2.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "338783c4261df072808d427a0c0519dfbae9acbf",
+   "size": 28085,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/338783c4261df072808d427a0c0519dfbae9acbf"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_bcf7baa2-8593-47ff-8f9f-38a82b06bd3f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b1668d38e01510fe101208744f364c037c5cbcf8",
+   "size": 26507,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b1668d38e01510fe101208744f364c037c5cbcf8"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_bdeed571-0720-46f1-9c67-3e84149c6373.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6d443e7ca99d1c46b606daa536a08ff4247f86d4",
+   "size": 36677,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6d443e7ca99d1c46b606daa536a08ff4247f86d4"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_c34f78a1-fb7e-4d0f-8f50-f56e6ac04241.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8d3ef28b6fb9dd37e90b715d1dae3bb800e38811",
+   "size": 18009,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8d3ef28b6fb9dd37e90b715d1dae3bb800e38811"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_d2795798-bdcf-4a48-8582-fc287a5fe96e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c4c896cab69a23bf5d57fb9065fbe7c12b71025c",
+   "size": 23024,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/c4c896cab69a23bf5d57fb9065fbe7c12b71025c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_d6ed713c-c0ad-47e8-830f-a3ec2455f388.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4c2d57d082181e4bb86e15061aeb92b69de95423",
+   "size": 32112,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4c2d57d082181e4bb86e15061aeb92b69de95423"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_d84301a2-b638-4549-93f6-62b9cdc68b83.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f26295a6b80d1eca39599f18210e53a3eb59668c",
+   "size": 32257,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f26295a6b80d1eca39599f18210e53a3eb59668c"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_d8e89167-2a38-4817-ad61-660b8b3b86fe.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e6f94e7d400b863e452b4d2df37ad67aa7935afc",
+   "size": 18918,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e6f94e7d400b863e452b4d2df37ad67aa7935afc"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_dce7c44e-04aa-4300-b476-5a12b156a3dd.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ca272797220f7ea82e46823b0c01a7efecf80172",
+   "size": 25639,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ca272797220f7ea82e46823b0c01a7efecf80172"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_dd0373bf-521d-4894-9898-3eac1ac97b2b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e31b9a0bf86ecdddcc87b2d2be4c165261e5a52a",
+   "size": 25085,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e31b9a0bf86ecdddcc87b2d2be4c165261e5a52a"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_dd3ddc54-3e75-4003-b99c-db1677948e80.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b32a412f94709b78ed1c97c89b981134fd4e42b7",
+   "size": 25551,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b32a412f94709b78ed1c97c89b981134fd4e42b7"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_e210965c-f877-44a3-86a6-e788147812ff.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1ac8e84f026df8b877beaf2f3e9d5cfda3faaacc",
+   "size": 25115,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1ac8e84f026df8b877beaf2f3e9d5cfda3faaacc"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_eb6b8ee1-4718-445a-94db-fd26ddce89ea.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "48f756ff0f17796e057156dc2d7c381bd6989163",
+   "size": 36001,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/48f756ff0f17796e057156dc2d7c381bd6989163"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_ed1430b1-fe3b-479f-a69d-803f2b68eb58.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "517921e0d662c7150c2e968c6cf34dbc52ffa9a2",
+   "size": 27287,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/517921e0d662c7150c2e968c6cf34dbc52ffa9a2"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_f1265bf3-bc84-4d3b-9c7e-0a7b6aefa997.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "dbeb90f4099e74284a9a3f66b82c8fb98ebf60c9",
+   "size": 18176,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/dbeb90f4099e74284a9a3f66b82c8fb98ebf60c9"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_f181a5ac-b61d-4036-95dd-c74ba00ca3f4.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e341f570bfe1db9cf191ef27074fe9b2d5e0d092",
+   "size": 18755,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e341f570bfe1db9cf191ef27074fe9b2d5e0d092"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_f1bfcc80-ac6e-4c3a-9812-b663bc7dbdcb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2313dd460ce39c170aae71b84e8f8fc5f2c8a797",
+   "size": 25455,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2313dd460ce39c170aae71b84e8f8fc5f2c8a797"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_f5fac945-854a-42e9-9ccd-bf8c2fef60f8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d82e1e8badd7b31fb61d420573dbb3a59098a450",
+   "size": 23600,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d82e1e8badd7b31fb61d420573dbb3a59098a450"
+  },
+  {
+   "path": "data/tau2benchsub_400/airline_failed_qwen3-max_fc303669-8e44-4f84-8021-5b94fae1fdf6.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4e8f2d7e5610eb72d00708a19a9e6c783af89c7d",
+   "size": 27405,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4e8f2d7e5610eb72d00708a19a9e6c783af89c7d"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_0498e32d-ea9e-4799-b8f2-89644f3ae1a0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "49a105ba199f6f34121699a5ca510dded1aff3b6",
+   "size": 30753,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/49a105ba199f6f34121699a5ca510dded1aff3b6"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_04f38d18-e4e6-40ed-aa0d-abd62be31a69.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3c19ae90b97c89bdb9befc5471c5e9c828417809",
+   "size": 31690,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3c19ae90b97c89bdb9befc5471c5e9c828417809"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_051aa4f2-a922-4f28-ae4c-79094de87dbb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c508ad380ff0d7e20c0afe4c2e925b3657e670d4",
+   "size": 26481,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/c508ad380ff0d7e20c0afe4c2e925b3657e670d4"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_06f77d1f-8895-44be-a647-c9746458acb0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ef196efa389b332c08a2b0e7ba23e82a20cc11bf",
+   "size": 38489,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ef196efa389b332c08a2b0e7ba23e82a20cc11bf"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_08958635-d381-43a2-8c05-00cee3b94ff0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8ee0e06bda2a94110c1893fb6e4f24e6bd4c3466",
+   "size": 36050,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8ee0e06bda2a94110c1893fb6e4f24e6bd4c3466"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_0b2e1ba9-7751-4577-a4bb-8f50c27a3e74.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f44edaebbd9431be22d2809a10d5a06c137362c5",
+   "size": 60757,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f44edaebbd9431be22d2809a10d5a06c137362c5"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_11c9cb4f-e05e-4bbc-a156-147bd710936e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "76b42573e9629fb0f02fa6995d3d5c7b52cd311c",
+   "size": 28801,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/76b42573e9629fb0f02fa6995d3d5c7b52cd311c"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_16a20200-caa4-44b6-afdf-8ba445e87e8c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "80632c82ccd031830903afc988558045d811baf0",
+   "size": 40134,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/80632c82ccd031830903afc988558045d811baf0"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_16e7fc1c-ad74-4f88-9738-3adbbe0bc839.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "294aaa6622e6078dd22350574bad9fee6dc3e7bb",
+   "size": 27335,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/294aaa6622e6078dd22350574bad9fee6dc3e7bb"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_17b45be1-5df4-457e-88c5-499e938edf3d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "720cf7ccbe0b540bb154d221c82d24c845441928",
+   "size": 28938,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/720cf7ccbe0b540bb154d221c82d24c845441928"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_19976b1b-4563-4677-8905-ad494d6f8b0f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2596292b11b5dc49d1590273e8cd01b6b1b9d944",
+   "size": 27311,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2596292b11b5dc49d1590273e8cd01b6b1b9d944"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_1ae508c9-ed12-4ef2-b77f-0042b0f960eb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9774c8cdbd38df8dfcc34458e043c0e708828e8b",
+   "size": 30193,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9774c8cdbd38df8dfcc34458e043c0e708828e8b"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_1c9b0760-cad0-4be1-8e60-b9284c9b2032.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d0f2f537e7afa9c4c3dba1ae6a2f53aa17a6fd29",
+   "size": 31063,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d0f2f537e7afa9c4c3dba1ae6a2f53aa17a6fd29"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_1d3e4a5b-9618-40f9-8bc3-87752471ddca.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "57ed2e6d14e9c45754754151cb4c598db93a55df",
+   "size": 31046,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/57ed2e6d14e9c45754754151cb4c598db93a55df"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_1fe80146-944d-4d92-ace8-840965ec373a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d65b72b5bd624dc354d7d8fcf2aba05145a19ffc",
+   "size": 32420,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d65b72b5bd624dc354d7d8fcf2aba05145a19ffc"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_20e929eb-a586-4df8-b84a-f32bb1b41fa8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "61edb0c2862ad568b4d015b1a4dfd10fce322366",
+   "size": 27941,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/61edb0c2862ad568b4d015b1a4dfd10fce322366"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_21e32d59-6107-41a9-acfd-0e39d39c4a25.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8185c035ae425ab7d4136351b3ba05108d80809a",
+   "size": 32813,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8185c035ae425ab7d4136351b3ba05108d80809a"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_2524ed31-49a4-4e63-bf1d-e67d1966c2d1.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f74e4b05f47658e65d051e0ab63b1de91039dbf6",
+   "size": 34291,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f74e4b05f47658e65d051e0ab63b1de91039dbf6"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_27461340-f14e-4d46-a265-1bc2275293e7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3be3077e2081f22ba2077c9de395e7d0d3c50fff",
+   "size": 28667,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3be3077e2081f22ba2077c9de395e7d0d3c50fff"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_29d60ce1-0b71-4aae-9c1e-6e4c1c8f0998.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "96a1785dfe8ef9cbe8025ddacfe14d616061cad4",
+   "size": 24561,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/96a1785dfe8ef9cbe8025ddacfe14d616061cad4"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_2ca131a0-c68a-486a-ab87-50ccb1ceb1bd.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "08d257be1b232d2f6a292892b61761f13ab1cc7b",
+   "size": 63818,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/08d257be1b232d2f6a292892b61761f13ab1cc7b"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_3132548c-6f87-4922-ab58-87b300a5a21b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f8e7a2c5f42e348c28f6074366dd72ff7a0cbb5e",
+   "size": 29923,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f8e7a2c5f42e348c28f6074366dd72ff7a0cbb5e"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_31674259-8d5b-4a9b-88df-bf4591e14187.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f481d3092f80fca74e039dc7caf7ab05e3371f3a",
+   "size": 28633,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f481d3092f80fca74e039dc7caf7ab05e3371f3a"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_33a2f85d-f634-4d17-b792-1f5694ac1634.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "972e0d510630d4e9d3591cb141febd55c600e5e8",
+   "size": 30287,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/972e0d510630d4e9d3591cb141febd55c600e5e8"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_3465bff2-2ccb-4edc-886f-08f6feaa0065.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ee5cb8ea1cc807e17c17178173d391f3eb3cbd9a",
+   "size": 34043,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ee5cb8ea1cc807e17c17178173d391f3eb3cbd9a"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_357747f4-77c6-41fe-9e85-9c919ffb7875.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "23d0d81aff302c93afba33337bfa32b22395a86c",
+   "size": 30776,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/23d0d81aff302c93afba33337bfa32b22395a86c"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_39f10308-d45a-4ef1-9ebf-5a100ba8b114.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "585cca1e9bd97b3c7cc7f0ad9d00989081316957",
+   "size": 29285,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/585cca1e9bd97b3c7cc7f0ad9d00989081316957"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_3e7bba30-ef3e-4865-b82b-5821c88c4000.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d69a069f29203b777e50345ef1894fc8b81eafd8",
+   "size": 39435,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d69a069f29203b777e50345ef1894fc8b81eafd8"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_44bbde0d-23f3-4b30-a971-2576f0a4457d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "34ec683b9ed91dea60e3d3c62a56e578444aa02d",
+   "size": 28334,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/34ec683b9ed91dea60e3d3c62a56e578444aa02d"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_45216a21-af15-4b83-86c9-593a119ec5c3.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "796a272c6878d42d895842ab6fd5cad60bb0f3b9",
+   "size": 56056,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/796a272c6878d42d895842ab6fd5cad60bb0f3b9"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_4be6a8d8-d272-4303-83cc-129d9a06ca0a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7ff52dcc53ef9d50b740dc28991752ac50a6e685",
+   "size": 32068,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7ff52dcc53ef9d50b740dc28991752ac50a6e685"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_4e150779-122e-49b3-ac31-4cf3c02a8476.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cf8fdf4e21a2b6c5cfad9ed2496a1cb282cb502a",
+   "size": 25194,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/cf8fdf4e21a2b6c5cfad9ed2496a1cb282cb502a"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_5079a69b-a059-41da-af79-51a0015b76d0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "373c4f269a7932a129aaa697905ab7f1c46f4db1",
+   "size": 32867,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/373c4f269a7932a129aaa697905ab7f1c46f4db1"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_509e63f4-6e68-4181-818d-149e0e42fe32.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5110c90f643cb052b41782cdcb166f1dc85301ee",
+   "size": 33867,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5110c90f643cb052b41782cdcb166f1dc85301ee"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_537bcfdc-7f20-4620-87ae-33d5b9004771.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3bafab64e14ad8993ad0cd3e8b0f9d41d6b562b5",
+   "size": 21550,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3bafab64e14ad8993ad0cd3e8b0f9d41d6b562b5"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_53f57dc6-4185-40be-bf38-d9bb127d2bcf.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3b2ddde7e370d5eca99456cba7a97e829c31e234",
+   "size": 25552,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3b2ddde7e370d5eca99456cba7a97e829c31e234"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_54254ec2-ab84-400c-ac44-323ec71671ec.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ed5bc772b52060c99e6a9d1542a307dbc7ff2eda",
+   "size": 27252,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ed5bc772b52060c99e6a9d1542a307dbc7ff2eda"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_5439f38c-9ce5-4a8d-8010-1ead6d2d634e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "44231894326aee75531e929ada8c0e65d430233d",
+   "size": 36284,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/44231894326aee75531e929ada8c0e65d430233d"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_5468bd1c-055a-47f9-a9ce-07bb10a917bf.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d6aac7e823868c2e2e0c9472d01aa26db30620aa",
+   "size": 33147,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d6aac7e823868c2e2e0c9472d01aa26db30620aa"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_5688db2f-16ee-47f2-b656-9d8b244a7c94.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b448bda4edbc258644867fe730fe1ee2c1a3837b",
+   "size": 40035,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b448bda4edbc258644867fe730fe1ee2c1a3837b"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_5ae44638-29d7-46e3-997e-04029947718b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "255c03c9bfdf4e402d23baae1abe1f800e87a074",
+   "size": 65500,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/255c03c9bfdf4e402d23baae1abe1f800e87a074"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_5b6c2de7-42b1-409f-a6dc-cc5c5c8421aa.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5dad209c77464c6dd669d9ac670c5bb814b46e83",
+   "size": 31647,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5dad209c77464c6dd669d9ac670c5bb814b46e83"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_613e25a4-3c1e-4adf-b888-0c892bcd3937.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f17ab2a653afba4b43a69852822c1646d36904b3",
+   "size": 28736,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f17ab2a653afba4b43a69852822c1646d36904b3"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_63baa0ae-f928-46a3-8522-986b8631d22c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2f1ec8e9a055095fd73080a1db59914e9e53de4b",
+   "size": 33339,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2f1ec8e9a055095fd73080a1db59914e9e53de4b"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_65bbd118-c8fa-4dd9-bb89-9664ec86b0a6.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6a7a51dd865e85aac5900a5f8d3b88bf2633965e",
+   "size": 34646,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6a7a51dd865e85aac5900a5f8d3b88bf2633965e"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_6694b3b6-4a14-405f-a488-1203fbf1abfb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "76f7638002e9238d418dbde1f3db6b4de389b0ea",
+   "size": 33540,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/76f7638002e9238d418dbde1f3db6b4de389b0ea"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_67abbdbe-7a88-4f90-9cec-9f1264cbcb69.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4ef0b4d113f133c97246cf0c02d7088671726228",
+   "size": 36585,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4ef0b4d113f133c97246cf0c02d7088671726228"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_6bede429-9da6-498a-8a00-c4f350edcd42.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2742197f36bc235f6274fcc8a74fbe60ba7c3b8f",
+   "size": 27504,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2742197f36bc235f6274fcc8a74fbe60ba7c3b8f"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_6d6f64a4-52b6-4e5b-9ba6-06b71dc876b6.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3e6819b053489f1212500ab782a517bc967d6910",
+   "size": 29154,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3e6819b053489f1212500ab782a517bc967d6910"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_6fd4fb89-4b2d-495f-afb9-0c49e32a7a5a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1031d169f355e6747f9f569a16f72b88c232750e",
+   "size": 25953,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1031d169f355e6747f9f569a16f72b88c232750e"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_72db038b-4205-4333-aa52-075fff2173a4.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d6379c24a7331f58d8956ce490efa75603e46009",
+   "size": 35994,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d6379c24a7331f58d8956ce490efa75603e46009"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_765a5f45-857a-4ef6-8254-c8bd73810f7d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4804e4be018390f63b8fc42fec0b20d2fcbf677f",
+   "size": 29937,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4804e4be018390f63b8fc42fec0b20d2fcbf677f"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_77850de2-ccb1-4fe6-86d3-ed5a116d4f6e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2dc86b94f82c0b5b0d06041c65c733258845948b",
+   "size": 26844,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2dc86b94f82c0b5b0d06041c65c733258845948b"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_78d18460-4ab9-4e61-9bdc-768d53b271b4.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "86bc9ff1be0771d6889e54d1a73915a3e728e9c8",
+   "size": 27558,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/86bc9ff1be0771d6889e54d1a73915a3e728e9c8"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_7b8f7044-f24c-4bfc-9d08-15f292459400.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "96e93269867f79413c51659b3c1c2bbfabb8eeb2",
+   "size": 23828,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/96e93269867f79413c51659b3c1c2bbfabb8eeb2"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_7bf8cbd4-d023-4913-ae6f-de9805179cfc.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7cf39a9f2965c668173c2440a468aeab86361141",
+   "size": 32105,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7cf39a9f2965c668173c2440a468aeab86361141"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_7c79fdda-5de5-4826-a5e9-492dc613b0a7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9be92ae4d93ba493db3fc195b350c24204d9cf78",
+   "size": 34501,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9be92ae4d93ba493db3fc195b350c24204d9cf78"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_7d857e8b-90a5-4b0a-b431-45fc828359c0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "91c230704a46742467a218ebb974f556111b9fcc",
+   "size": 26002,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/91c230704a46742467a218ebb974f556111b9fcc"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_8417f19a-7189-4621-97c4-7dc503b81164.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "218010772a99bdadfafefaf1b2b98547b28a32ce",
+   "size": 26956,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/218010772a99bdadfafefaf1b2b98547b28a32ce"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_88e536bc-02f7-441f-9807-a7ad3f68ead0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8d92e454fae507eee6ea129f7b9921862a439b27",
+   "size": 45427,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8d92e454fae507eee6ea129f7b9921862a439b27"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_8cd84a02-54b8-4b2d-9a55-f3ebffc3397b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "48f4295d321d1268e7b55dd03b4310862449287e",
+   "size": 38217,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/48f4295d321d1268e7b55dd03b4310862449287e"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_8d47019c-0501-4791-b2e3-d2d81f344f89.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ec9cd4c04fc8f3e2a15fbb1e01679424f9aa58f3",
+   "size": 31376,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ec9cd4c04fc8f3e2a15fbb1e01679424f9aa58f3"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_8dbc6f1c-2257-41c6-bcec-e3c2266aedcf.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "684f63a274a39b8a4b993a27327d51fee3c5d3ef",
+   "size": 33607,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/684f63a274a39b8a4b993a27327d51fee3c5d3ef"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_90dece86-9942-4030-91c3-cd45e00c45e4.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ad14ac6fd2e879de365570f6aa498702973fe92b",
+   "size": 33861,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ad14ac6fd2e879de365570f6aa498702973fe92b"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_91280cfa-9966-47cc-bb14-0c188e25d7d8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "622be340a8b864b6bf6eb1d5c8112617354d6d90",
+   "size": 34516,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/622be340a8b864b6bf6eb1d5c8112617354d6d90"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_940607c4-f59a-41c5-812a-42c9e629b903.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3874ccbd306c961b683bf9dc38fd114ec3d93fc2",
+   "size": 42631,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3874ccbd306c961b683bf9dc38fd114ec3d93fc2"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_955fa4a4-411f-4541-84af-3f9771aa30b6.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9c43c9c0c81b60c1267e2ff56786fe91455cce4d",
+   "size": 27372,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9c43c9c0c81b60c1267e2ff56786fe91455cce4d"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_97b4b6e0-a7b9-416a-a12d-e8e136cb9b76.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "492788e3d254588b56ab4f8a4ef93b279f03c31a",
+   "size": 31617,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/492788e3d254588b56ab4f8a4ef93b279f03c31a"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_9a5cea36-019c-40ee-b6d3-c6078a71d825.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "04aa25ecbee80cfb5f6b98339b114493f8d6d5b5",
+   "size": 36651,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/04aa25ecbee80cfb5f6b98339b114493f8d6d5b5"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_9fb4e6c3-bbb9-431f-a49d-44ca70f8a96c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "16b7e8022f5ad54a267a0d85ad7a4d67e0d54f5c",
+   "size": 23571,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/16b7e8022f5ad54a267a0d85ad7a4d67e0d54f5c"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_a63d0505-401a-487c-9ef6-dfaf5d40b480.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9daae895f22de56fbbeb4e2ac68cf613ed6cce4c",
+   "size": 32443,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9daae895f22de56fbbeb4e2ac68cf613ed6cce4c"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_a7e60d08-52ee-4c8c-9475-d24da7dade9f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d4c30945903b387de6d61ac5f5b7d6c72dc8d08c",
+   "size": 29852,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d4c30945903b387de6d61ac5f5b7d6c72dc8d08c"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_a9f9e61f-4e68-423d-b051-bccf12963314.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "32f83acd01b7427c1429b1f1f6102179cf9a3890",
+   "size": 26828,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/32f83acd01b7427c1429b1f1f6102179cf9a3890"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_aa7d8315-d534-4fa1-9400-7b65ff61a989.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "35521793c56f81ee6a888fc9b2e8c1b95e04492b",
+   "size": 36539,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/35521793c56f81ee6a888fc9b2e8c1b95e04492b"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_aabdd22b-7d25-4a38-98d8-322527ef0d5c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3523933c1b5a82b17ff95ac10f1b64c7865464c9",
+   "size": 23116,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3523933c1b5a82b17ff95ac10f1b64c7865464c9"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_adff453e-3887-40d1-ba62-37686dc02be6.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6990d880788b52584754bdd2626202692dacd32f",
+   "size": 30329,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6990d880788b52584754bdd2626202692dacd32f"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_b27b3d9f-dbfd-4a1b-83a5-ffb0c122cf38.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "195f612482f8bd49c293938556afbb4300289a7d",
+   "size": 33976,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/195f612482f8bd49c293938556afbb4300289a7d"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_b3d63b54-2c0e-4b69-9ce8-6f543918b192.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ac31e325037ac7b82b1135511b1a73978049d2d0",
+   "size": 29603,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ac31e325037ac7b82b1135511b1a73978049d2d0"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_baf05bd5-29c5-4f09-8c21-96052f0c434b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "56e3378fd872d03991a90e59f2f4f93369b2df65",
+   "size": 22799,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/56e3378fd872d03991a90e59f2f4f93369b2df65"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_bb1e682b-852c-443a-9acb-5a85e61b1cf1.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2a920ff8d326677d3a76b9cbe97c07f26f5f8782",
+   "size": 44272,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2a920ff8d326677d3a76b9cbe97c07f26f5f8782"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_bbaee1ca-59d5-4ab4-baac-c8570bf85b40.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "53bf57e54f9773cca358126a88e4ae79eae46f38",
+   "size": 28423,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/53bf57e54f9773cca358126a88e4ae79eae46f38"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_bbbc635b-8fb4-4899-87f9-7568c5c34c12.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c2ed5be0dbc09919b5927c23340f2398301ed5b9",
+   "size": 41948,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/c2ed5be0dbc09919b5927c23340f2398301ed5b9"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_bd23964f-5c59-4963-8375-03614a6e2dd3.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "60c673bc18ab98d9d774cdb73a7cd8ae8571c133",
+   "size": 30331,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/60c673bc18ab98d9d774cdb73a7cd8ae8571c133"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_c1453b1f-9812-44a7-b4e8-4193e5309fb8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b627ef745cb5fc13db0d8c41f72fe8007279ae96",
+   "size": 31042,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b627ef745cb5fc13db0d8c41f72fe8007279ae96"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_c1e358ac-4702-4122-ac9c-af242b119767.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "80d3507d7b58946feb23cae1cf2cd1a1fb4562a6",
+   "size": 21518,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/80d3507d7b58946feb23cae1cf2cd1a1fb4562a6"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_c21d8fcf-6ce2-47ca-943e-dfea1776b3c7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b27c351027e5a12e053f01d9b9deb6cdb56a058a",
+   "size": 32584,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b27c351027e5a12e053f01d9b9deb6cdb56a058a"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_c511bef5-ba9f-4e39-bc53-f9ca9e36ca4f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2e2983baffdc9163ed7940063209ea3b7a2bcbbb",
+   "size": 33574,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2e2983baffdc9163ed7940063209ea3b7a2bcbbb"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_cd8439cc-25c5-48b6-a71e-bb5c848e9996.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b6e61332672cfdbeec96a353233a7bcf32a1ea2d",
+   "size": 46596,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b6e61332672cfdbeec96a353233a7bcf32a1ea2d"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_cd869bc4-614b-4e17-a67a-bca5f0eacc4a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "cc961f71ac4ed2f9ca5e6f7ebbce7c6d21ea0b5d",
+   "size": 24757,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/cc961f71ac4ed2f9ca5e6f7ebbce7c6d21ea0b5d"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_ce606df3-f1be-4b77-b472-5b9ae0b189c0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ff47f7760a1226b901a7e920b9017264255ef370",
+   "size": 31889,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ff47f7760a1226b901a7e920b9017264255ef370"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_d069f58e-dcca-417f-9472-0d5b34636de7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8ec40e11f485d88ba6bd1bef6764a69608f190b7",
+   "size": 32158,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8ec40e11f485d88ba6bd1bef6764a69608f190b7"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_d514d67b-f720-4d2c-a33a-6d07f513cb89.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "31e417d669037ca7642483488b242b2e26e57cc7",
+   "size": 30900,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/31e417d669037ca7642483488b242b2e26e57cc7"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_d9fa083e-54d8-4165-99f8-42895b016aa0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "415c966ef770f13575ca551f5b3c21c6df8e6637",
+   "size": 35266,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/415c966ef770f13575ca551f5b3c21c6df8e6637"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_dca5b8f7-f248-4eb8-af78-a1262e0e4694.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5d0bbd7fa8b2e3f0bbd76001c379ab5da501ae7b",
+   "size": 32305,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5d0bbd7fa8b2e3f0bbd76001c379ab5da501ae7b"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_dd79a33c-b5c3-466a-bfd7-c88ad3194f80.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c242dc6dbb3a906619d650b86157b953cbffa5c6",
+   "size": 22448,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/c242dc6dbb3a906619d650b86157b953cbffa5c6"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_de4ee21a-bea6-4294-a13e-11c6ec171e74.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c6e6323434e1eda8a1785a3d67800ce24e7fe715",
+   "size": 44244,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/c6e6323434e1eda8a1785a3d67800ce24e7fe715"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_de92188f-743e-469c-9667-cff2db9c42ed.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "4f546b29a438839dd467c38f9b83764aeac908b6",
+   "size": 41111,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/4f546b29a438839dd467c38f9b83764aeac908b6"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_e516c4f9-44a6-4383-b028-554da65b72d2.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5f6081842cccea9025eefb193f58aee040c930c8",
+   "size": 23716,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5f6081842cccea9025eefb193f58aee040c930c8"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_e8abe935-42be-42b6-acbe-ce1ffec1c93e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0984d97daf0572115cbb5b880e5771cdf2898681",
+   "size": 25954,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/0984d97daf0572115cbb5b880e5771cdf2898681"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_eb935e91-47b2-43a0-99fc-e13f046589b7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5b211740313795bde3cfeac66ddeb7c8404df603",
+   "size": 21334,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5b211740313795bde3cfeac66ddeb7c8404df603"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_ecc05e43-0738-413a-994f-665974111732.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3470f230f0ca230b291d2becb71e2922efbc347c",
+   "size": 32786,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3470f230f0ca230b291d2becb71e2922efbc347c"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_f1ef4ebf-cb4a-4921-b4e4-875c7e1da24d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2c29f68c649af8d94baf3e731617a542cb67b84e",
+   "size": 35818,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2c29f68c649af8d94baf3e731617a542cb67b84e"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_deepseek-reasoner_fc67c3f4-2d68-4fb1-91e2-664528ca78cd.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "98e30de10bcada2c36032d56f950bee1819ecddc",
+   "size": 31265,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/98e30de10bcada2c36032d56f950bee1819ecddc"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_05bb39c2-3ea6-46f3-89ad-1e057a5e935a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f036b9c0fb7fdad3d6a11b33d4301b6b147080c4",
+   "size": 30107,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f036b9c0fb7fdad3d6a11b33d4301b6b147080c4"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_0689c94c-ba7c-4af7-837c-130cb8ffcb0c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9ee3c2199e9009ce6b51567d337fc61074056be8",
+   "size": 25993,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9ee3c2199e9009ce6b51567d337fc61074056be8"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_09ccaf41-289b-4dad-a3cb-1a12722b2789.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2bd4180a26c7f2c2e1e9b9c4501c7e6b4c5bbafa",
+   "size": 24234,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2bd4180a26c7f2c2e1e9b9c4501c7e6b4c5bbafa"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_0a380332-d969-4571-8fa8-ee457628b5d3.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "33b19798cf5bacbca1e23c3c759354cca945bf35",
+   "size": 26949,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/33b19798cf5bacbca1e23c3c759354cca945bf35"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_0e6ddf61-0ca7-4ecc-aafb-153a5b85ce61.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ff3d0e4cde4ced85875efc4b3dda3f41ecd72ca3",
+   "size": 23397,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ff3d0e4cde4ced85875efc4b3dda3f41ecd72ca3"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_12431276-645a-4ce4-acf3-3cd86bb05516.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7b7f10be70f67143509a276c47d5605c7e7c9ff9",
+   "size": 30963,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7b7f10be70f67143509a276c47d5605c7e7c9ff9"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_14e95dea-b4a6-4421-befa-931bd91e6444.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1d7e985982eae70ac6b54047ef0f825bff3fbb72",
+   "size": 45279,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1d7e985982eae70ac6b54047ef0f825bff3fbb72"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_1a7f345d-d9fa-41a3-bd17-62d7028324cd.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8ab87c27d81a50c97b7ad11caf89544fdafe5920",
+   "size": 39003,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8ab87c27d81a50c97b7ad11caf89544fdafe5920"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_1c46a08e-785e-40b7-80af-5b9e49bb0b48.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9f3c47c4c5a14c23f0677d0cfa210c35ab5ffb9d",
+   "size": 30247,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9f3c47c4c5a14c23f0677d0cfa210c35ab5ffb9d"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_1f63bf29-4d06-4b5a-96f1-1387b25b8e21.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b4f421d774d682171ceb6c26436f342e350db472",
+   "size": 37672,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b4f421d774d682171ceb6c26436f342e350db472"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_1f9a6c6e-9ec6-46c7-88d9-d799f7fed6f3.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "26df842c094199db633f977523daca4ef3f1a277",
+   "size": 24728,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/26df842c094199db633f977523daca4ef3f1a277"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_2113ed11-6102-4414-b97f-ff2c49ef3547.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b3e98a1a6c415d2d1a23d72f52a15e0aab979b5d",
+   "size": 29253,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b3e98a1a6c415d2d1a23d72f52a15e0aab979b5d"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_28a1bd39-5d91-4087-be41-d0ff194eb0e2.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b228002a2b1d5314c0f8463418837afd8dba8294",
+   "size": 29389,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b228002a2b1d5314c0f8463418837afd8dba8294"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_29051f0d-984c-4a2f-b43e-2821f35c29d1.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "902a80e0e10331f4390b7a541bdd4297bcb06eec",
+   "size": 27221,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/902a80e0e10331f4390b7a541bdd4297bcb06eec"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_2ab60426-d6f4-4144-a2d4-67d7f418e6d4.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f7e93f65a7d25d8173e3c1ebbe32dc944224ad22",
+   "size": 28940,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f7e93f65a7d25d8173e3c1ebbe32dc944224ad22"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_2cd663d7-5376-4117-ab2d-9cca6e2ca612.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "24598a2f5fb1a069b005372abc5e21e3d2e39b43",
+   "size": 40460,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/24598a2f5fb1a069b005372abc5e21e3d2e39b43"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_32069465-e7ca-4e75-8421-15876dc176bc.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "af7ce2eb215f7ec90eea3a07b7f2eb9e05fb2c94",
+   "size": 29965,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/af7ce2eb215f7ec90eea3a07b7f2eb9e05fb2c94"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_33551132-6bfd-4aa5-9227-560a60b0479d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "033a429452496514af7e86706fb82c98367900c3",
+   "size": 29607,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/033a429452496514af7e86706fb82c98367900c3"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_3d836ad5-e00a-46f0-a48d-96a137e13bf6.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e3c0309a8fe829440f93ee47c0968c926b1f8470",
+   "size": 37713,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e3c0309a8fe829440f93ee47c0968c926b1f8470"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_42fa9fab-b296-442a-be2c-b29033a1e77c.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "410111dce7954a500268027859f6726acd6b6de4",
+   "size": 26087,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/410111dce7954a500268027859f6726acd6b6de4"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_4585f035-08a5-4112-a615-17b4d0a08974.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0d07b7effe6bc5b2a4d44e9819278f18f8574077",
+   "size": 40278,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/0d07b7effe6bc5b2a4d44e9819278f18f8574077"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_4b7793ca-4a6e-412a-9a0e-379b5eaf14a8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "09d6879c22af1c8dafb18fc2a35a8cd55ca75681",
+   "size": 29921,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/09d6879c22af1c8dafb18fc2a35a8cd55ca75681"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_4e25e836-e8f0-4698-aa7f-f8fcbebccc6b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7c97b3fafb886f5bc5746ab784ab23b1d34317c8",
+   "size": 29846,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7c97b3fafb886f5bc5746ab784ab23b1d34317c8"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_500e80c9-9f1d-45a4-937c-1d56d2b734c0.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1c4e4f3d57ccf2f9250e0772df848a43cf94eabc",
+   "size": 37186,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1c4e4f3d57ccf2f9250e0772df848a43cf94eabc"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_5609b557-9d16-4684-957c-1997f05de9be.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "dc5f932a4ea5a190bec643e17f00acb4ae9ce104",
+   "size": 29895,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/dc5f932a4ea5a190bec643e17f00acb4ae9ce104"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_58d87eec-2537-4538-9a66-d632165e543a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f0de6a8bb1f928a5987be2fe917b5dcff5aa6f31",
+   "size": 25028,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f0de6a8bb1f928a5987be2fe917b5dcff5aa6f31"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_598b52eb-62b2-4049-a930-0f793a9e6363.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "53089dead24d5131d60667e438b0e6c857eee00f",
+   "size": 42910,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/53089dead24d5131d60667e438b0e6c857eee00f"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_5a3a7858-f5d7-4aca-8a2b-b8e2187b6ed7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "18e984540aafd2b9bbd211abebfa62c614ec0156",
+   "size": 31660,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/18e984540aafd2b9bbd211abebfa62c614ec0156"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_66e829ea-edab-4aab-b9e7-97768f66ccbb.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "089b54a51718c5cd199cb259c6d61b993a5867ba",
+   "size": 24935,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/089b54a51718c5cd199cb259c6d61b993a5867ba"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_6a5b5e41-19b7-4fd1-890e-3a7abe2ba9e7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a06a80e19740aaa33680effb947999b4f43bcd29",
+   "size": 33138,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a06a80e19740aaa33680effb947999b4f43bcd29"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_6c8923ed-91b4-4531-927d-5ef0cf94fc4f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "887886155b48cd0ce50aeb769ab30375802cb381",
+   "size": 32013,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/887886155b48cd0ce50aeb769ab30375802cb381"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_6f9b80bf-11a8-4254-9545-6983a08fb987.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "40e7be63d538746be9dac4b52a2d031b92cc037f",
+   "size": 33420,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/40e7be63d538746be9dac4b52a2d031b92cc037f"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_6fa50ed0-0d7c-47a5-9887-03a5220d2757.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1332cef1376eee5bc3a6336cd7ce5cf0d8924a03",
+   "size": 30981,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1332cef1376eee5bc3a6336cd7ce5cf0d8924a03"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_730d130b-9f8e-491d-bf6c-cdb0530b1f3d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "011d24dc17edc68070be0237f2e5725210ddb331",
+   "size": 25402,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/011d24dc17edc68070be0237f2e5725210ddb331"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_76df7756-7940-42fd-accf-cfaee1765817.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5632ff18da52b90270d4197163bdb2f5eb20c499",
+   "size": 33526,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5632ff18da52b90270d4197163bdb2f5eb20c499"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_786967cd-17ee-45e3-8ad8-8c8338ebc4b1.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "6c2ed0b5a89d73bd71f63ddda1237f5204719848",
+   "size": 44760,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/6c2ed0b5a89d73bd71f63ddda1237f5204719848"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_7c406d0c-8cbc-40fd-8007-0a687bd8fb2d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "b36b6262245fed2c435f17912d9213555a6513d7",
+   "size": 41407,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/b36b6262245fed2c435f17912d9213555a6513d7"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_827d86b9-9770-4855-85a3-65c5b18c825f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "27ed0092c8e0dbc6cca5907a121b024896d6f93c",
+   "size": 31163,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/27ed0092c8e0dbc6cca5907a121b024896d6f93c"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_83750e7a-0116-43d0-a4fe-3f558b99379e.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0b9dd080c3b90e8f90e90f82de2305042d2a3a99",
+   "size": 27484,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/0b9dd080c3b90e8f90e90f82de2305042d2a3a99"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_83c19a5e-ade9-4368-a949-09c39c3fd598.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "de712744ffe01e079fe7563062feda144d915d5b",
+   "size": 42013,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/de712744ffe01e079fe7563062feda144d915d5b"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_8f4a9b83-05fb-4309-8ec9-489a6d6cb247.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2b21b75fb333fd6550bfeaab030c80aba50807f5",
+   "size": 32938,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2b21b75fb333fd6550bfeaab030c80aba50807f5"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_8f861116-88f8-44b9-a0a3-67c0f9410038.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "aaa509cfde06284ace925444f95815e01f275d0d",
+   "size": 30466,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/aaa509cfde06284ace925444f95815e01f275d0d"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_97342164-7ecb-405d-b5a6-39f9d722b13d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "ffd59ace745225a7ae60aba35262f3c19604c555",
+   "size": 30825,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/ffd59ace745225a7ae60aba35262f3c19604c555"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_99e140da-c012-4b20-a713-44c686f4546d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e6c8812ab2db64e9adc74c97a9c75a313291be63",
+   "size": 28094,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e6c8812ab2db64e9adc74c97a9c75a313291be63"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_9a55695f-97a4-4702-b1c3-4074158cdd9f.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0a49f80e5378c0dc8e4c52e2f916e00d305a8602",
+   "size": 36870,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/0a49f80e5378c0dc8e4c52e2f916e00d305a8602"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_a3478d8b-0946-42d0-8049-cab189442857.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "8847584bfe50eaeb3cb349b7c5cf56c5e364b59e",
+   "size": 33430,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/8847584bfe50eaeb3cb349b7c5cf56c5e364b59e"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_a3a8c58c-3e67-4aa6-aed4-17f4b7dd82be.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "3a1086337422b72bce839428cce993356fa56c96",
+   "size": 27210,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/3a1086337422b72bce839428cce993356fa56c96"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_a3c17b28-b14e-4b9e-8291-d131d22899de.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e3332345ea99388d50e6c6f2b1d183794993fddc",
+   "size": 30597,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e3332345ea99388d50e6c6f2b1d183794993fddc"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_a8fc7388-43da-4388-b2d5-77f0c6fdb014.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9cc60a6f91b4c3c917bd9398b159097f571d8e7f",
+   "size": 33887,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9cc60a6f91b4c3c917bd9398b159097f571d8e7f"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_af2ae61c-6251-495a-943d-cd3dd9ec3a3d.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1c793205350a169b60bb0dc1a677ac71845ef5f8",
+   "size": 38414,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1c793205350a169b60bb0dc1a677ac71845ef5f8"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_b011d4d7-879e-4f3f-a628-6f237a1bee8a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "61cad5b776fd9e28f8495bf36c54ed3d161e826a",
+   "size": 39300,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/61cad5b776fd9e28f8495bf36c54ed3d161e826a"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_b6996ac3-f4bb-4e7d-a2d5-8432ca9fc4ff.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7ef3be347d9d9027a54fdbd954a41d523f9b1d3b",
+   "size": 41352,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7ef3be347d9d9027a54fdbd954a41d523f9b1d3b"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_ba21e203-6b2d-479e-80d9-1a3032492738.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f4e1906dc1bae5fb7af1c0fd627e120eaf47dc85",
+   "size": 34575,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f4e1906dc1bae5fb7af1c0fd627e120eaf47dc85"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_bc7009b5-372c-4ff1-9072-3116871f5ace.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7b94b16a14483ad14d4cef82be810b51d7de6a62",
+   "size": 23779,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7b94b16a14483ad14d4cef82be810b51d7de6a62"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_bf0d63d1-788e-4de7-9e3d-bae55934b70b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "10c88b9734c9942952981e315b27e89aa577a19f",
+   "size": 33605,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/10c88b9734c9942952981e315b27e89aa577a19f"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_c192036b-1318-44df-9abf-b3dd5128a2d7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "1e5969af28ff83b73dcc103926c944f83d313b83",
+   "size": 37071,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/1e5969af28ff83b73dcc103926c944f83d313b83"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_c3f37b99-8c5d-4567-b0e2-e02e1f5fddae.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "f64222e405dc86dc4b59b651690c353f7d9ff97e",
+   "size": 33762,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/f64222e405dc86dc4b59b651690c353f7d9ff97e"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_cc302574-abf2-40d0-86ef-1b5b87b9e8d3.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0aace35d6f7da84c6e0a3d75ebe07f68b15cd675",
+   "size": 35731,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/0aace35d6f7da84c6e0a3d75ebe07f68b15cd675"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_cd17388a-7627-42e0-a6f9-e4661c1f2d29.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "a89a1c98d10b693840f416a829e50a05c631f8a9",
+   "size": 30618,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/a89a1c98d10b693840f416a829e50a05c631f8a9"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_cf48796c-51a2-4be4-b427-c82d9a344106.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "c30abf210b4793a16b151cca532c7f3c4964d090",
+   "size": 40862,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/c30abf210b4793a16b151cca532c7f3c4964d090"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_d6b22ac2-079f-4b5a-b1b4-4ddf6c20302a.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "99af787759146f631def6ce1b5d67d20a7eb5762",
+   "size": 30586,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/99af787759146f631def6ce1b5d67d20a7eb5762"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_d92cb827-9548-4f1a-a58a-c2cf4d12558b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2fb6b5b4474fcf155288c0166a6e2c66b447bd20",
+   "size": 23844,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2fb6b5b4474fcf155288c0166a6e2c66b447bd20"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_dc62f645-fa10-48c4-bbdb-1a6f63bb15d8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "83de110a0d848f9e7ec0fb3083e153b1c2bbf958",
+   "size": 43824,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/83de110a0d848f9e7ec0fb3083e153b1c2bbf958"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_e374c4a1-644b-4fa2-89f9-5a7b7702cf5b.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "7f226e66e06529334df2daa3886cc20e32a20ebd",
+   "size": 34753,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/7f226e66e06529334df2daa3886cc20e32a20ebd"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_e63c979d-bba6-499b-a377-fdf49d17fb23.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "9528e93d3a88dbbea58e3935ba36d91e09296b32",
+   "size": 25697,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/9528e93d3a88dbbea58e3935ba36d91e09296b32"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_e698f8de-0f49-4c2e-9445-7567a4558626.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "aad4ab544fd934182e7d920fdd63028a813b0f63",
+   "size": 30034,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/aad4ab544fd934182e7d920fdd63028a813b0f63"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_e8770864-f461-4281-8484-5a48e1de43a5.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e12ced13e96b41005d46194702861d0b1d0d157c",
+   "size": 36576,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e12ced13e96b41005d46194702861d0b1d0d157c"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_e8f6a10f-9124-4290-8451-534917ca18e8.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "626819623bd29661e4b65ab19cb314f028031e67",
+   "size": 29800,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/626819623bd29661e4b65ab19cb314f028031e67"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_ea7eccd1-5704-410f-960e-9fc75c1677a7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2fd77d2b863b394cd39dbf4020bc291b71c1de50",
+   "size": 53575,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2fd77d2b863b394cd39dbf4020bc291b71c1de50"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_ec69ace6-3bba-46a5-bb2d-643d25b71cf3.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "0b980bb08188af9d122fcbda193b6199f94076bf",
+   "size": 30244,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/0b980bb08188af9d122fcbda193b6199f94076bf"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_ed655070-01f8-4653-a3a0-591c7a0914ff.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "bb214cf9af5aa29e1648b50c7e82216f2481aedb",
+   "size": 37975,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/bb214cf9af5aa29e1648b50c7e82216f2481aedb"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_efadfc83-dd38-4dcc-a5c3-dfe07e0ea8a4.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "61c86c54771957e6837c14544e1fb0e54fc034b8",
+   "size": 29871,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/61c86c54771957e6837c14544e1fb0e54fc034b8"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_efe7314b-977f-4d50-a0c3-9fe59639f8af.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "53fa4c7b643d8f4c78c6b15673a6e6a448f386fd",
+   "size": 27637,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/53fa4c7b643d8f4c78c6b15673a6e6a448f386fd"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_f3362419-7ab9-4264-ac10-47c609c3f4d9.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "2e9f3d2d1cb15a548fcdd036d47153a4cf076502",
+   "size": 27456,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/2e9f3d2d1cb15a548fcdd036d47153a4cf076502"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_fc51b4d5-d220-49d9-a376-78ca0dfd34a7.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "e78e0ef4d34d4a13c03aeeed17edc7a16f1eeb73",
+   "size": 38312,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/e78e0ef4d34d4a13c03aeeed17edc7a16f1eeb73"
+  },
+  {
+   "path": "data/tau2benchsub_400/retail_failed_gpt-5_fd3b1013-6f3a-459e-a7fe-c9fe20725f12.json",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "5642fe9a2516b2d7c6106f28d52d7293c0276efe",
+   "size": 32051,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/5642fe9a2516b2d7c6106f28d52d7293c0276efe"
+  },
+  {
+   "path": "results/CHIEF/tau2benchsub_400/results_CHIEF_tau2bench_step_accuracy_api_ali_qwen3-235b-a22b-thinking-2507_20260521_012120_with_failed7_rerun.jsonl",
+   "mode": "100644",
+   "type": "blob",
+   "sha": "d814a3bb9fbf3751474c431c28713e16f563ad9e",
+   "size": 2954970,
+   "url": "https://api.github.com/repos/Mr-Capybara/CHIEF/git/blobs/d814a3bb9fbf3751474c431c28713e16f563ad9e"
+  }
+ ]
+}

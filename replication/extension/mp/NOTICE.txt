@@ -1,0 +1,5 @@
+MP-Bench numeric annotation offsets
+Copyright © 2026, Adobe Inc. and its licensors. All rights reserved.
+Source: https://github.com/adobe-research/multi-agent-eval-bench/tree/b8042d410850672ea5bee4b1031c6cde9028e099
+Noncommercial research use under the accompanying Adobe Research License v1.2.
+Modifications: the study selected 173 previously scored Who&When runs, retained anonymous step sets for their three readers, omitted free text, and regrouped the offsets by the published log identifier.
