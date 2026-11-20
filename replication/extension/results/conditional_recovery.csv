@@ -1,0 +1,13 @@
+subset,n,budget,distance,turn_first
+all,174,2,38,38
+all,174,4,62,66
+all,174,8,108,107
+all,174,16,152,151
+turn_hits,72,2,35,35
+turn_hits,72,4,42,46
+turn_hits,72,8,54,56
+turn_hits,72,16,64,66
+turn_only,40,2,3,3
+turn_only,40,4,10,14
+turn_only,40,8,22,24
+turn_only,40,16,32,34

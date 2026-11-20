@@ -1,0 +1,4 @@
+method,n,exact,exchange,annotated,reader_exchange_votes
+Historical Bayes,180,38,38,173,268
+History-held-out Bayes,180,36,36,173,268
+Cue,180,24,45,173,226

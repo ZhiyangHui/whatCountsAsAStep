@@ -9,9 +9,25 @@ from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import LogisticRegression
 from cohorts import ROOT,load_who,load_tau,load_elephant
 
+def fold_groups(rows):
+ # Connect task IDs transitively whenever their complete source histories match.
+ parents = {r['q']: r['q'] for r in rows}
+ def root(q):
+  while parents[q] != q:
+   parents[q] = parents[parents[q]]
+   q = parents[q]
+  return q
+ owners = {}
+ for row in rows:
+  if 'history_sha256' in row:
+   a = root(row['q'])
+   b = root(owners.setdefault(row['history_sha256'], row['q']))
+   parents[max(a,b)] = min(a,b)
+ return [root(r['q']) for r in rows]
+
 def fit(rows,splits=None):
  if splits is None:
-  splits=GroupKFold(n_splits=5).split(rows,groups=[r['q'] for r in rows])
+  splits=GroupKFold(n_splits=5).split(rows,groups=fold_groups(rows))
  for fold,(train,test) in enumerate(splits,1):
   assert {rows[i]['q'] for i in train}.isdisjoint(rows[i]['q'] for i in test)
   def events(indices):

@@ -19,7 +19,7 @@ def load_who():
  for r in readcsv(LEGACY/'indices.csv'):
   sub,fn=r['subset'],r['file']
   a=json.loads((WHO/sub/fn).read_bytes());ev=maps[sub,fn]
-  out.append(dict(ds='WhoWhen',domain=sub,id=sub+'/'+fn,q=hkey(r['qid']),g=int(r['gold']),roles=[e['actor'] for e in ev],texts=[str(e['content']) for e in a['history']],group=[int(e['exchange']) for e in ev],turn=[int(e['actor_turn']) for e in ev],pred={m:int(r[m]) for m in ('CHIEF','Qwen14','Bayes','Cue')},human=[]))
+  out.append(dict(ds='WhoWhen',domain=sub,id=sub+'/'+fn,q=hkey(r['qid']),history_sha256=hashlib.sha256(json.dumps(a['history'],sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()).hexdigest(),g=int(r['gold']),roles=[e['actor'] for e in ev],texts=[str(e['content']) for e in a['history']],group=[int(e['exchange']) for e in ev],turn=[int(e['actor_turn']) for e in ev],pred={m:int(r[m]) for m in ('CHIEF','Qwen14','Bayes','Cue')},human=[]))
  return out
 def load_tau():
  out=[]; files=list((ROOT/'cache/data/tau2benchsub_400').glob('*.json'))

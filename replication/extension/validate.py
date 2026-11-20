@@ -9,6 +9,8 @@ def validate(frozen,results,transport,alignment,receipts):
   n=len(r['roles']);g=r['g']
   assert 0<=g<n and r['q'] and r['fold'] in range(1,6)
   key=r['ds'],r['q'];assert folds.setdefault(key,r['fold'])==r['fold']
+  if r['ds']=='WhoWhen':
+   assert folds.setdefault(('history',r['history_sha256']),r['fold'])==r['fold']
   for rule in ('turn','group'):
    seq=r[rule]
    if seq is None:continue

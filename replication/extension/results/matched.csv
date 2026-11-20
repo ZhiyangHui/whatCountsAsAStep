@@ -3,7 +3,7 @@ ElephantTeam,Combined,turn,45,captain,magentic,0,24,53.333333333333336,37.778,66
 ElephantTeam,Text,turn,45,captain,magentic,0,6,13.333333333333334,4.444,24.444
 ElephantTeam,PositionRole,turn,45,captain,magentic,0,24,53.333333333333336,37.778,68.889
 ElephantTeam,Symptom,turn,45,captain,magentic,1,17,35.55555555555556,22.222,48.889
-WhoWhen,Combined,turn,42,Algorithm-Generated,Hand-Crafted,1,2,2.380952380952381,-4.762,9.524
+WhoWhen,Combined,turn,42,Algorithm-Generated,Hand-Crafted,0,2,4.761904761904762,0.0,11.905
 WhoWhen,Text,turn,42,Algorithm-Generated,Hand-Crafted,0,2,4.761904761904762,0.0,11.905
-WhoWhen,PositionRole,turn,42,Algorithm-Generated,Hand-Crafted,1,0,-2.380952380952381,-7.143,0.0
+WhoWhen,PositionRole,turn,42,Algorithm-Generated,Hand-Crafted,0,0,0.0,0.0,0.0
 WhoWhen,Symptom,turn,42,Algorithm-Generated,Hand-Crafted,1,2,2.380952380952381,-4.762,9.524

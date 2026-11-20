@@ -11,6 +11,8 @@ python audit.py
 python extension/audit_extended.py extension/complete.jsonl.gz extension/results
 python extension/matched.py extension/complete.jsonl.gz extension/results
 python extension/annotations.py extension/complete.jsonl.gz extension/mp/annotation_offsets.json extension/results
+python extension/sensitivity.py extension/complete.jsonl.gz extension/service_prompt_lengths.csv extension/results
+python extension/role_audit.py extension/complete.jsonl.gz extension/mp/annotation_offsets.json extension/results
 python extension/fixed_budget.py extension/complete.jsonl.gz extension/results
 python extension/provenance.py extension/complete.jsonl.gz extension/transport.csv extension/results
 python extension/validate.py extension/complete.jsonl.gz extension/results extension/transport.csv extension/release_alignment.csv extension/call_receipts.csv
@@ -40,3 +42,28 @@ The external protocol and feature plan were recorded locally, without public pre
 ## Secondary expert annotation source
 
 The extension/mp directory contains derived numeric offsets from [MP-Bench](https://github.com/adobe-research/multi-agent-eval-bench/tree/b8042d410850672ea5bee4b1031c6cde9028e099). Copyright © 2026 Adobe Inc. and its licensors. These data are available for noncommercial research under the accompanying Adobe Research License v1.2. No annotation narratives are copied. The filenames point to the same Who&When source revision used for the primary study. To rebuild the derived offsets, supply the pinned repository ZIP as --archive when running annotations.py. Counts, code, and ordinary numerical results are attributed to this study; cite In et al. for the expert annotation data.
+
+## Role analysis and inspection-order sensitivity
+
+The role audit writes three tables. In exchange_cases.csv, each row is one exchange-only hit for a method. Group the raw emitter names ending in _expert as expert actions. Deduplicate by trace and nominated offset before counting cases marked by MP-Bench readers. Zero readers indicates missing annotations. Zero votes with three readers means none marked that record. The per-case vote counts derive from the MP-Bench data cited above and are subject to the accompanying Adobe Research License.
+
+In budget_signs.csv, a question contributes the sign of the sum of its paired trace differences. The exact two-sided binomial sign test excludes tied questions. The service_roles.csv table counts assistant references and mapped CHIEF outputs and checks all tool-call groups on the paired service cohort.
+
+For a future independent assessment, run the following command from the replication directory. Supply an original Who&When histories directory from the pinned revision and a new destination. Give each reviewer only the reviewer directory and retain the organizer key separately. The generator removes benchmark label fields and diagnostic pipeline identifiers, and presents each distinct nominated record once. Collect independent ratings on clue value and intervention plausibility. Report counts for yes, no and uncertain, initial agreement and the reasons for disagreements. This release includes no new human ratings.
+~~~sh
+python extension/blind_review.py extension/results/exchange_cases.csv "/path/to/Who&When" review-packet
+~~~
+
+## Input completeness and shared histories
+
+The Who&When folds join task IDs transitively through SHA-256 fingerprints of the complete history array (sorted JSON keys, compact separators, UTF-8). Both duplicate pairs lie within the algorithm-generated architecture. The frozen history_sha256 field permits fold validation. The sensitivity command produces input_strata.csv, duplicate_exclusion.csv and conditional_recovery.csv. Its budget table uses the same deterministic earlier-first order as fixed_budget.py.
+
+The service_prompt_lengths.csv table joins each original payload hash to its vocabulary-only lower bound and runtime count. To rebuild it from the original request receipts, run python extension/prompt_lengths.py MODEL.gguf extension/call_receipts.csv CALL_DIRECTORY service_prompt_lengths.csv. The historical model blob SHA-256 is a8cc1361f3145dc01f6d77c6c82c9116b9ffe3c97b34716fe20418455876c40e. Raw requests contain source text and are retained in the authoring archive. Frozen scores and runtime strata require only the released numeric receipts. Separate Who&When counts appear in who_prompt_counts.csv.
+
+## Bayes holdout and shared random boundaries
+
+With WHO_HISTORIES set to the pinned Who&When histories directory, run the following from replication:
+~~~sh
+python extension/baseline_checks.py extension/complete.jsonl.gz extension/mp/annotation_offsets.json extension/results
+~~~
+The historical fitting pool comprises 181 label-matched source records, including one record with no archived CHIEF prediction. Both Bayes variants use the same pool and are scored on the same 180 paired records. The stricter fit excludes the whole task/history component within the training architecture. bayes_predictions.csv gives both offsets for every run, and bayes_holdout.csv gives the hit counts and three-reader exchange votes. shared_boundaries.csv reports the exact null mean and equal-tailed discrete quantiles for the excess in additional hits of Qwen over CHIEF under shared disjoint random pairings.
