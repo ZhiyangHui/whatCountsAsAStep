@@ -38,7 +38,8 @@ def fit(rows,splits=None):
    assert offset==len(scores)
  for row in rows:
   eligible=[i for i,r in enumerate(row['roles']) if r.lower() not in {'system','user','human'}]
-  pattern=r'\b(error|failed|failure|exception|unable|traceback)\b|错误|失败|异常|无法'
+  # Chinese cue words, in order: error, failure, exception, unable.
+  pattern=r'\b(error|failed|failure|exception|unable|traceback)\b|\u9519\u8bef|\u5931\u8d25|\u5f02\u5e38|\u65e0\u6cd5'
   row['pred']['Symptom']=next((i for i in eligible if re.search(pattern,row['texts'][i],re.I)),eligible[0] if eligible else 0)
   del row['texts']
 

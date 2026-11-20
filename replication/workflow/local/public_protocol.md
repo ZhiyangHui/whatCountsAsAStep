@@ -1,2 +1,7 @@
-# 公开日志新增诊断（探索性小样本）
-在生成新预测前锁定：从主分析中具有 CHIEF 有效预测的两个子集各取 12 条，按 SHA256("moredata-v1|子集|文件名") 排序取前十二，与结果无关。在完全相同样本上比较 Qwen3-14B 一次读整段索引日志的本地方法与已归档 CHIEF。为限制成本，每条消息保留前 200 字符，超过 10,000 字符预算则按事件平均缩短；保留全部事件索引。仅提供题面和日志，不提供正确答案、人工标注或 CHIEF 预测。缺失或越界计错。诊断方法同时受模型、上下文呈现和推理策略影响，不据此推断具体一项因素的因果作用。同一轨迹的三种分组复用同一预测，报告三种评分及分层结果。24 个新预测不是新轨迹。
+# Local diagnosis on public logs: exploratory pilot
+
+Specified before generating predictions. Within each of the two primary subsets, restrict to valid CHIEF predictions, sort by SHA256("moredata-v1|<subset>|<filename>"), and take the first 12 traces independently of outcomes. Compare a local single-pass Qwen3-14B diagnosis with archived CHIEF on the same traces.
+
+Retain every event index and the first 200 characters of each message. When the 10,000-character budget would be exceeded, shorten prefixes equally across events. Supply only the question and log. Withhold correct answers, human labels and CHIEF predictions. Count missing or out-of-range predictions as misses. Differences between methods can reflect the model, input representation and inference procedure.
+
+Reuse each prediction under all three scoring rules. Report overall and subset-specific results. The 24 new predictions are additional assessments of existing traces.

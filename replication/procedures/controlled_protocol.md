@@ -1,4 +1,7 @@
-# 本地配对实验 01
-在查看模型输出前指定：12 个独立的小型订单核算任务；固定随机种子生成模拟订单，每个任务随机查四笔中的三笔。局部金额查表、金额抄录、求和返回三种边界各注入 4 次 +7 错误。每题生成一条干净轨迹及一条受控轨迹。同一模型扮演三个岗位，每次调用使用独立上下文。工具确定性执行，保留消息和调用凭据（模型名、种子、耗时及输入输出），不使用付费服务。
-事件号 0 用户原始表与需求、1 查询请求、2 查表工具响应、3 核对员交接金额、4 计算员输出求和参数、5 计算器响应、6 报告员输出最终数。0 是公共任务说明；工具响应及交接可能被注入。对两分支使用相同角色提示和种子，相同请求复用响应。仅对干净分支各阶段正确、注入分支最终答案错误且中间数值按预期传播的对照计入主归因样本，其余也保留。
-两种独立诊断程序固定：①本地 Qwen3 整体阅读任务原始表和执行日志，一次给出最早错误的事件号；②程序根据每步输入输出做一致性复核，返回最早数值不一致的事件（有任务结构知识的参照）。两者都看不到故障类型或注入前答案。除逐条评分外，交互评分固定合并(1,2)、(4,5)，其余单列。不把派生的评分、缓存调用或干净对照计作新的独立失败。仅估计在该模拟工作流上的表现，不使用这些日志估计自然出错率。
+# Local paired ledger experiment 01
+
+Specified before inspecting model outputs. Generate 12 independent small ledger tasks with fixed random seeds. Each task selects three of four entries. Inject a +7 error at the lookup response, reconciliation handoff or calculator response, with four tasks per site. Generate a clean and a perturbed execution for each task. The same local model fills three roles in separate contexts. Tools run deterministically. Record messages, model name, seed, elapsed time, inputs and outputs. Use no paid services.
+
+The event indices are 0 for the original ledger and request, 1 for the lookup request, 2 for the lookup response, 3 for the reconciliation handoff, 4 for the sum request, 5 for the calculator response and 6 for the final report. Both branches share event 0, role prompts and seeds. Reuse identical calls. Include a pair in the primary attribution analysis when all clean transitions are correct, the perturbed final answer is wrong and the injected value propagates as intended. Retain all other pairs as records.
+
+Freeze two independent diagnostic procedures. Local Qwen3 reads the ledger and the execution log in one pass and returns the earliest incorrect event. A contract checker compares each event's inputs and outputs and returns the earliest numerical inconsistency. Both procedures receive neither the injection type nor the clean final answer. In addition to exact scoring, join events (1, 2) and (4, 5) for interaction scoring. Keep the remaining events separate. The unit of analysis is one paired task. The design measures performance on this simulated workflow and fixes the fault frequency by construction.

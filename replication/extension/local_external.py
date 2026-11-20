@@ -2,7 +2,9 @@ from pathlib import Path
 import json,sys
 root=Path(__file__).resolve().parent
 runner=root.parent/'workflow/local'
-sys.path.insert(0,str(runner if (runner/'run.py').exists() else root.parent/'本地实验'))
+if not (runner/'run.py').is_file():
+ runner=root/'paper/replication/workflow/local'
+sys.path.insert(0,str(runner))
 import run
 run.ROOT=root
 def ask(p):

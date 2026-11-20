@@ -1,12 +1,12 @@
 # What Counts as a Step?
 
-同一个故障定位模型，如果把「指出出错的那一步」放宽为「指出包含这一步的一轮交互」，能多得多少分？本仓库提供论文的实验代码、逐条预测与评分规则，覆盖 **798 条公开执行轨迹、21,616 条记录**。另有 12 组受控台账实验，单独计数。
+How much does a failure localizer's score change when finding the right interaction counts as success? This repository contains the code, predictions and scoring rules for a study of **798 failed executions and 21,616 records**. A separate experiment uses 12 paired ledger tasks.
 
-下面用仓库自带的预测复算论文结果。普通电脑即可运行，无需 GPU、模型服务或 API 密钥。
+The steps below reproduce the main scores and five paper figures from frozen predictions. They run on a CPU and require no model service or API key.
 
-## 1. 首次运行：安装环境
+## 1. Set up Python
 
-以下命令适用于 macOS 或 Linux，使用 Python 3.12。在终端进入项目目录。如果仓库存放在其他位置，把第一行换成实际路径。
+On macOS or Linux, open a terminal in your clone of this repository. The examples use Python 3.12. If you cloned the project in a different location, adjust the first command.
 
 ~~~sh
 cd ~/code/whatCountsAsAStep
@@ -15,26 +15,26 @@ source .venv/bin/activate
 python -m pip install -r replication/requirements.txt
 ~~~
 
-首次安装依赖需要联网。以后打开新终端，只需进入仓库根目录并执行 `source .venv/bin/activate`。下文所有命令都从仓库根目录执行。
+The first installation requires internet access. In a new terminal, return to the repository root and activate the existing environment. Run the remaining commands from the repository root.
 
-## 2. 复算主评分表
+## 2. Reproduce the main scores
 
 ~~~sh
 python replication/extension/audit_extended.py replication/extension/complete.jsonl.gz outputs
 python replication/extension/validate.py replication/extension/complete.jsonl.gz outputs replication/extension/transport.csv replication/extension/release_alignment.csv replication/extension/call_receipts.csv
 ~~~
 
-第一条命令会创建 `outputs/` 并写入 CSV。第二条会核对样本、评分和模型调用记录，成功时最后一行是：
+The first command writes CSV files to the outputs directory. The second checks the scores against the frozen records. Its final line should read:
 
 ~~~text
 Verified 798 traces, 21,616 records, 252 scoring rows, 754 transport predictions and 400 local service receipts.
 ~~~
 
-用 Excel 打开 `outputs/scores.csv` 即可看主结果。例如，筛选 `ds=WhoWhen`、`domain=ALL`、`method=Qwen14`、`rule=group`，应看到 **180 条轨迹中，精确命中 37 条，按交互分组命中 61 条，新增 24 条**。对应列是 `n`、`exact`、`hits` 和 `gain`。
+Open outputs/scores.csv and select the row with ds=WhoWhen, domain=ALL, method=Qwen14 and rule=group. Among 180 traces, Qwen receives 37 exact hits and 61 exchange hits, a gain of 24. The corresponding columns are n, exact, hits and gain.
 
-## 3. 生成论文的五张图
+## 3. Generate the five figures
 
-完成第 2 步后继续执行。前两条计算同题配对、随机分组对照和专家重标结果，最后一条绘图。绘图还会读取仓库随附的 Who&When 边界对照汇总表。
+After computing the main scores, run the matched-question and expert-annotation analyses, then render the figures. The boundary-placement plot also uses the bundled Who&When summary.
 
 ~~~sh
 python replication/extension/matched.py replication/extension/complete.jsonl.gz outputs
@@ -42,20 +42,18 @@ python replication/extension/annotations.py replication/extension/complete.jsonl
 python replication/extension/figures.py replication/extension/complete.jsonl.gz outputs replication/results/summary.csv outputs/figures
 ~~~
 
-在 `outputs/figures/` 查看五份矢量 PDF：
-
-| 文件 | 回答的问题 |
+| PDF in outputs/figures | What it shows |
 | --- | --- |
-| `case.pdf` | 同一道题在两个智能体框架中，预测步骤与参考步骤相隔多远？ |
-| `boundaries.pdf` | 真实交互边界比随机放置的边界多给了哪些方法分数？ |
-| `references.pdf` | 换用三位专家的标注后，方法之间的分差如何变化？ |
-| `exposure.pdf` | 不同架构的分组有多长，能带来多少额外命中？ |
-| `budget.pdf` | 限定检查记录数时，预计能找回多少参考步骤？ |
+| case.pdf | Predicted and annotated steps for the same question executed by two agent teams |
+| boundaries.pdf | Exchange-only hits under observed and randomly placed boundaries |
+| references.pdf | Method score gaps under the original reference and three expert annotations |
+| exposure.pdf | Reference group widths and the additional hits awarded in each domain |
+| budget.pdf | Expected reference recovery as the number of inspections increases |
 
-## 其他实验
+## Additional experiments
 
-- **固定排查预算、跨系统迁移与历史对照**：完整命令、输入文件和输出表见[复现实验说明](replication/README.md)。该说明里的命令从 `replication/` 目录执行。
-- **从原始日志重新训练或调用模型**：[原始数据重建步骤](replication/README.md#rebuild-from-original-logs)列出了固定的数据版本、训练入口和本地 Qwen 的运行方式。CHIEF 使用原作者的归档预测。重新运行语言模型时，软件或模型版本可能影响输出。
-- **受控台账实验**：[12 组干净与故障分支](replication/data/controlled_pairs/)可逐条检查，生成流程见[历史复现说明](replication/LEGACY.md)。
+- For fixed inspection budgets, cross-system transfer and historical controls, follow the commands in the [replication guide](replication/README.md) from the replication directory.
+- To train classifiers or run local Qwen inference on the original logs, follow the [source data and rebuild instructions](replication/README.md#rebuild-from-original-logs). CHIEF predictions come from the authors' archive. Model and runtime versions can affect regenerated predictions.
+- The [controlled ledger records](replication/data/controlled_pairs/) contain both execution branches for each task. The [historical study guide](replication/LEGACY.md) describes how to generate them.
 
-第三方数据沿用各来源的使用条款。[MP-Bench 标注与许可](replication/extension/mp/)随复现材料提供。
+Third-party data retain their source terms. The MP-Bench annotations include the [Adobe Research License](replication/extension/mp/).

@@ -1,0 +1,14 @@
+ds,domain,n,tasks,events,median_length
+WhoWhen,ALL,180,138,4009,10.0
+WhoWhen,Algorithm-Generated,126,126,1099,10.0
+WhoWhen,Hand-Crafted,54,54,2910,38.5
+TauService,ALL,400,115,11709,27.0
+TauService,airline,221,44,6544,28.0
+TauService,retail,179,71,5165,27.0
+ElephantTeam,ALL,174,129,4347,20.5
+ElephantTeam,captain-runs-assistantbench,12,12,187,12.0
+ElephantTeam,captain-runs-gaia,73,73,1559,15.0
+ElephantTeam,magentic-runs-assistant-bench,15,15,541,41.0
+ElephantTeam,magentic-runs-gaia,74,74,2060,24.5
+ElephantSWE,ALL,44,44,1551,23.5
+ElephantSWE,swe-agent-runs-swe-bench,44,44,1551,23.5
